@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "username": "it_staff",
+        "password": "scrypt:32768:8:1$9ydYtui6CprBsTm6$1c8c8b3aeb05f9ab579aa348efd7178367b1d4b93e54d0a4c74031dc3744ef93f6cbfd00e48cc841f445a50ea27d25497b364b2fc65fcff8e53504cd7be37777",
+        "role": "it_staff"
+    },
+    {
+        "id": "2",
+        "username": "hospital_staff",
+        "password": "scrypt:32768:8:1$0jwLF0y5AKGblox4$74747d506653142a8c8fc632a85811f4650b9b4b216bff88a61a0c53d9c2096dcd17b6c6090a66a92eed14748ccb85e47bdbf6315e96f66f837d4c966567258f",
+        "role": "hospital_staff"
+    }
+]

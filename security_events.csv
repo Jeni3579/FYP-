@@ -1,0 +1,1001 @@
+user,event_type,threat_category
+user44,File Created,Normal
+user9,User Logout,Normal
+user39,Failed Login,Unauthorized Access
+user6,User Logout,Normal
+user4,File Created,Normal
+user10,Process Started,Normal
+user20,User Login,Normal
+user49,File Accessed,Normal
+user48,User Logout,Normal
+user32,Suspicious Process Created,Potential Malware
+user14,User Logout,Normal
+user20,User Login,Normal
+user18,Process Started,Normal
+user14,File Encrypted,Ransomware Activity
+user45,Process Started,Normal
+user28,Process Started,Normal
+user15,Shadow Copy Deleted,Ransomware Activity
+user7,File Accessed,Normal
+user34,Failed Login,Unauthorized Access
+user40,Process Started,Normal
+user27,File Created,Normal
+user33,User Logout,Normal
+user46,User Logout,Normal
+user45,Successful Login (Unusual Hour),Unauthorized Access
+user10,File Created,Normal
+user36,User Logout,Normal
+user4,User Login,Normal
+user17,Connection to Known C2 Server,Potential Malware
+user36,User Login,Normal
+user35,Process Started,Normal
+user4,User Logout,Normal
+user27,File Accessed,Normal
+user8,File Created,Normal
+user49,Failed Login,Unauthorized Access
+user25,File Created,Normal
+user48,File Encrypted,Ransomware Activity
+user38,User Login,Normal
+user13,Process Started,Normal
+user7,User Logout,Normal
+user7,Process Started,Normal
+user20,Process Started,Normal
+user12,File Accessed,Normal
+user15,File Accessed,Normal
+user19,Registry Key Modified,Potential Malware
+user5,File Accessed,Normal
+user30,User Login,Normal
+user30,User Logout,Normal
+user34,Successful Login (Unusual Hour),Unauthorized Access
+user15,User Login,Normal
+user46,File Accessed,Normal
+user16,File Accessed,Normal
+user4,File Created,Normal
+user17,Multiple Files Renamed,Ransomware Activity
+user8,User Login,Normal
+user25,Process Started,Normal
+user45,File Created,Normal
+user45,Process Started,Normal
+user48,Failed Login,Unauthorized Access
+user5,Process Started,Normal
+user34,User Logout,Normal
+user38,User Logout,Normal
+user6,File Accessed,Normal
+user46,File Accessed,Normal
+user36,Failed Login,Unauthorized Access
+user43,Failed Login,Unauthorized Access
+user37,Connection to Known C2 Server,Potential Malware
+user3,Process Started,Normal
+user27,File Accessed,Normal
+user18,Failed Login,Unauthorized Access
+user39,File Created,Normal
+user8,User Logout,Normal
+user19,Registry Key Modified,Potential Malware
+user31,User Login,Normal
+user35,File Accessed,Normal
+user24,File Created,Normal
+user41,User Login,Normal
+user40,File Created,Normal
+user49,User Login,Normal
+user48,User Login,Normal
+user1,User Logout,Normal
+user9,Shadow Copy Deleted,Ransomware Activity
+user16,Process Started,Normal
+user15,Connection to Known C2 Server,Potential Malware
+user14,User Logout,Normal
+user39,Multiple Files Renamed,Ransomware Activity
+user24,Failed Login,Unauthorized Access
+user8,User Login,Normal
+user28,User Login,Normal
+user45,User Login,Normal
+user36,User Login,Normal
+user2,File Created,Normal
+user22,File Accessed,Normal
+user30,File Accessed,Normal
+user43,User Logout,Normal
+user14,Successful Login (Unusual Hour),Unauthorized Access
+user47,User Logout,Normal
+user1,User Login,Normal
+user50,Failed Login,Unauthorized Access
+user38,User Login,Normal
+user16,User Logout,Normal
+user25,Process Started,Normal
+user1,File Accessed,Normal
+user9,Shadow Copy Deleted,Ransomware Activity
+user29,User Logout,Normal
+user8,File Created,Normal
+user20,User Login,Normal
+user9,User Login,Normal
+user42,Shadow Copy Deleted,Ransomware Activity
+user7,Process Started,Normal
+user33,File Created,Normal
+user22,Connection to Known C2 Server,Potential Malware
+user25,User Logout,Normal
+user24,User Login,Normal
+user13,User Login,Normal
+user49,File Created,Normal
+user33,File Created,Normal
+user25,File Created,Normal
+user23,User Login,Normal
+user8,Registry Key Modified,Potential Malware
+user10,User Login,Normal
+user46,File Accessed,Normal
+user5,User Login,Normal
+user45,User Logout,Normal
+user28,User Login,Normal
+user45,Process Started,Normal
+user33,File Created,Normal
+user27,Failed Login,Unauthorized Access
+user29,File Created,Normal
+user37,User Logout,Normal
+user8,Suspicious Process Created,Potential Malware
+user25,File Accessed,Normal
+user11,File Created,Normal
+user31,User Logout,Normal
+user4,File Created,Normal
+user30,User Login,Normal
+user45,User Logout,Normal
+user46,User Logout,Normal
+user39,File Accessed,Normal
+user13,Process Started,Normal
+user22,User Login,Normal
+user29,File Created,Normal
+user26,User Login,Normal
+user46,User Login,Normal
+user5,Failed Login,Unauthorized Access
+user17,Process Started,Normal
+user22,File Created,Normal
+user34,File Accessed,Normal
+user26,User Logout,Normal
+user10,Process Started,Normal
+user32,File Accessed,Normal
+user42,Process Started,Normal
+user25,User Logout,Normal
+user29,Connection to Known C2 Server,Potential Malware
+user39,File Created,Normal
+user30,File Accessed,Normal
+user44,Process Started,Normal
+user9,Successful Login (Unusual Hour),Unauthorized Access
+user32,File Created,Normal
+user19,File Created,Normal
+user45,File Created,Normal
+user39,File Created,Normal
+user41,File Accessed,Normal
+user5,Connection to Known C2 Server,Potential Malware
+user33,Failed Login,Unauthorized Access
+user35,Process Started,Normal
+user37,File Created,Normal
+user5,User Logout,Normal
+user11,File Created,Normal
+user40,User Login,Normal
+user1,File Accessed,Normal
+user27,File Accessed,Normal
+user21,File Accessed,Normal
+user6,File Created,Normal
+user32,File Created,Normal
+user13,File Accessed,Normal
+user41,Process Started,Normal
+user4,Failed Login,Unauthorized Access
+user30,User Logout,Normal
+user8,Process Started,Normal
+user38,File Accessed,Normal
+user34,File Accessed,Normal
+user20,User Logout,Normal
+user3,File Created,Normal
+user40,User Logout,Normal
+user20,User Login,Normal
+user7,User Logout,Normal
+user47,User Logout,Normal
+user39,File Accessed,Normal
+user28,Registry Key Modified,Potential Malware
+user42,Registry Key Modified,Potential Malware
+user12,File Created,Normal
+user15,File Accessed,Normal
+user13,Process Started,Normal
+user10,File Created,Normal
+user10,User Logout,Normal
+user8,User Login,Normal
+user46,Process Started,Normal
+user2,User Login,Normal
+user49,User Logout,Normal
+user18,File Created,Normal
+user26,Process Started,Normal
+user3,Process Started,Normal
+user25,User Logout,Normal
+user2,Process Started,Normal
+user17,User Login,Normal
+user48,Failed Login,Unauthorized Access
+user8,File Accessed,Normal
+user36,Failed Login,Unauthorized Access
+user19,User Login,Normal
+user35,File Created,Normal
+user39,File Encrypted,Ransomware Activity
+user24,User Login,Normal
+user4,File Created,Normal
+user4,Successful Login (Unusual Hour),Unauthorized Access
+user36,User Logout,Normal
+user21,File Accessed,Normal
+user5,User Logout,Normal
+user14,Connection to Known C2 Server,Potential Malware
+user23,User Logout,Normal
+user38,File Accessed,Normal
+user38,File Accessed,Normal
+user34,File Created,Normal
+user23,User Logout,Normal
+user33,File Accessed,Normal
+user48,File Accessed,Normal
+user19,User Login,Normal
+user2,Process Started,Normal
+user26,Failed Login,Unauthorized Access
+user27,User Logout,Normal
+user21,User Login,Normal
+user32,Shadow Copy Deleted,Ransomware Activity
+user42,Successful Login (Unusual Hour),Unauthorized Access
+user21,File Created,Normal
+user31,Shadow Copy Deleted,Ransomware Activity
+user4,Process Started,Normal
+user31,User Login,Normal
+user11,User Logout,Normal
+user30,Connection to Known C2 Server,Potential Malware
+user16,User Login,Normal
+user23,Registry Key Modified,Potential Malware
+user18,User Logout,Normal
+user31,File Created,Normal
+user27,File Created,Normal
+user43,Failed Login,Unauthorized Access
+user19,File Accessed,Normal
+user25,User Login,Normal
+user6,User Login,Normal
+user7,User Logout,Normal
+user30,Failed Login,Unauthorized Access
+user10,User Logout,Normal
+user50,User Logout,Normal
+user18,File Accessed,Normal
+user32,Multiple Files Renamed,Ransomware Activity
+user6,File Accessed,Normal
+user19,User Logout,Normal
+user8,User Login,Normal
+user11,User Logout,Normal
+user46,Process Started,Normal
+user25,User Login,Normal
+user8,User Logout,Normal
+user30,Process Started,Normal
+user31,User Login,Normal
+user14,File Accessed,Normal
+user21,File Created,Normal
+user32,Suspicious Process Created,Potential Malware
+user3,User Logout,Normal
+user11,User Logout,Normal
+user34,File Created,Normal
+user45,File Accessed,Normal
+user12,User Login,Normal
+user18,File Created,Normal
+user3,Failed Login,Unauthorized Access
+user46,File Accessed,Normal
+user35,File Created,Normal
+user20,File Created,Normal
+user2,User Logout,Normal
+user7,File Created,Normal
+user4,File Accessed,Normal
+user48,User Logout,Normal
+user26,File Accessed,Normal
+user4,Shadow Copy Deleted,Ransomware Activity
+user28,User Login,Normal
+user16,File Accessed,Normal
+user40,User Login,Normal
+user2,Process Started,Normal
+user15,File Accessed,Normal
+user5,File Created,Normal
+user29,File Created,Normal
+user15,Failed Login,Unauthorized Access
+user12,File Created,Normal
+user43,Process Started,Normal
+user14,Process Started,Normal
+user27,User Logout,Normal
+user27,Process Started,Normal
+user7,File Created,Normal
+user26,File Encrypted,Ransomware Activity
+user26,User Login,Normal
+user40,File Created,Normal
+user13,User Logout,Normal
+user26,User Logout,Normal
+user19,User Login,Normal
+user34,User Logout,Normal
+user34,Process Started,Normal
+user15,User Logout,Normal
+user36,User Logout,Normal
+user36,Successful Login (Unusual Hour),Unauthorized Access
+user40,Shadow Copy Deleted,Ransomware Activity
+user47,User Login,Normal
+user19,File Created,Normal
+user1,User Login,Normal
+user16,User Logout,Normal
+user29,Process Started,Normal
+user39,User Login,Normal
+user16,Successful Login (Unusual Hour),Unauthorized Access
+user48,File Created,Normal
+user50,User Logout,Normal
+user33,Process Started,Normal
+user10,User Logout,Normal
+user36,User Login,Normal
+user26,Failed Login,Unauthorized Access
+user9,User Logout,Normal
+user25,Process Started,Normal
+user26,Failed Login,Unauthorized Access
+user32,File Accessed,Normal
+user25,User Logout,Normal
+user31,File Accessed,Normal
+user49,File Accessed,Normal
+user31,User Login,Normal
+user48,User Logout,Normal
+user12,File Encrypted,Ransomware Activity
+user26,User Logout,Normal
+user31,User Logout,Normal
+user3,User Login,Normal
+user47,User Logout,Normal
+user9,User Logout,Normal
+user40,User Login,Normal
+user25,Process Started,Normal
+user30,File Created,Normal
+user22,Registry Key Modified,Potential Malware
+user22,Process Started,Normal
+user42,User Login,Normal
+user31,File Created,Normal
+user20,User Logout,Normal
+user41,File Accessed,Normal
+user13,Process Started,Normal
+user6,Process Started,Normal
+user2,Failed Login,Unauthorized Access
+user31,User Login,Normal
+user21,File Created,Normal
+user3,User Login,Normal
+user33,File Created,Normal
+user38,Multiple Files Renamed,Ransomware Activity
+user34,File Accessed,Normal
+user15,Successful Login (Unusual Hour),Unauthorized Access
+user40,File Created,Normal
+user38,User Logout,Normal
+user5,File Created,Normal
+user33,User Logout,Normal
+user14,User Logout,Normal
+user20,File Accessed,Normal
+user30,User Login,Normal
+user22,User Logout,Normal
+user22,File Created,Normal
+user8,File Created,Normal
+user40,User Logout,Normal
+user26,User Logout,Normal
+user7,User Logout,Normal
+user41,User Logout,Normal
+user44,User Logout,Normal
+user8,Failed Login,Unauthorized Access
+user16,Successful Login (Unusual Hour),Unauthorized Access
+user38,User Login,Normal
+user34,Process Started,Normal
+user33,User Logout,Normal
+user44,User Login,Normal
+user49,User Logout,Normal
+user13,Process Started,Normal
+user24,File Accessed,Normal
+user2,User Login,Normal
+user1,Successful Login (Unusual Hour),Unauthorized Access
+user7,Process Started,Normal
+user40,User Logout,Normal
+user31,Failed Login,Unauthorized Access
+user41,File Accessed,Normal
+user2,User Logout,Normal
+user9,User Login,Normal
+user16,File Created,Normal
+user41,Process Started,Normal
+user17,File Encrypted,Ransomware Activity
+user11,File Accessed,Normal
+user2,User Logout,Normal
+user30,File Accessed,Normal
+user37,User Login,Normal
+user6,User Logout,Normal
+user40,User Logout,Normal
+user18,User Logout,Normal
+user27,File Created,Normal
+user39,Registry Key Modified,Potential Malware
+user14,File Accessed,Normal
+user27,File Accessed,Normal
+user1,Connection to Known C2 Server,Potential Malware
+user25,User Login,Normal
+user20,User Logout,Normal
+user31,User Logout,Normal
+user7,User Login,Normal
+user35,User Login,Normal
+user32,Process Started,Normal
+user19,Process Started,Normal
+user38,File Created,Normal
+user17,Multiple Files Renamed,Ransomware Activity
+user16,Process Started,Normal
+user29,Connection to Known C2 Server,Potential Malware
+user16,File Encrypted,Ransomware Activity
+user40,User Login,Normal
+user26,Registry Key Modified,Potential Malware
+user17,Process Started,Normal
+user34,Successful Login (Unusual Hour),Unauthorized Access
+user36,File Accessed,Normal
+user35,File Created,Normal
+user31,File Created,Normal
+user46,User Login,Normal
+user15,File Created,Normal
+user31,User Logout,Normal
+user31,File Accessed,Normal
+user26,Process Started,Normal
+user20,Failed Login,Unauthorized Access
+user27,User Logout,Normal
+user8,User Login,Normal
+user47,Shadow Copy Deleted,Ransomware Activity
+user7,File Created,Normal
+user41,File Encrypted,Ransomware Activity
+user47,Multiple Files Renamed,Ransomware Activity
+user32,Failed Login,Unauthorized Access
+user9,User Login,Normal
+user25,File Accessed,Normal
+user21,File Created,Normal
+user19,Process Started,Normal
+user14,File Accessed,Normal
+user23,User Logout,Normal
+user6,Failed Login,Unauthorized Access
+user40,File Accessed,Normal
+user17,User Logout,Normal
+user35,User Login,Normal
+user43,Process Started,Normal
+user27,User Login,Normal
+user6,Process Started,Normal
+user33,User Login,Normal
+user15,File Accessed,Normal
+user46,File Created,Normal
+user15,File Accessed,Normal
+user49,Connection to Known C2 Server,Potential Malware
+user25,File Encrypted,Ransomware Activity
+user27,Failed Login,Unauthorized Access
+user2,File Created,Normal
+user27,File Created,Normal
+user6,User Login,Normal
+user46,File Accessed,Normal
+user4,File Accessed,Normal
+user14,User Login,Normal
+user1,User Login,Normal
+user10,User Login,Normal
+user17,Process Started,Normal
+user39,Suspicious Process Created,Potential Malware
+user33,Process Started,Normal
+user36,File Created,Normal
+user32,Process Started,Normal
+user12,Failed Login,Unauthorized Access
+user25,User Login,Normal
+user42,User Login,Normal
+user14,File Created,Normal
+user5,File Created,Normal
+user5,File Created,Normal
+user3,Successful Login (Unusual Hour),Unauthorized Access
+user18,User Logout,Normal
+user22,User Logout,Normal
+user6,User Login,Normal
+user13,User Login,Normal
+user20,User Login,Normal
+user14,File Encrypted,Ransomware Activity
+user36,File Accessed,Normal
+user21,File Created,Normal
+user24,Process Started,Normal
+user1,User Login,Normal
+user28,Process Started,Normal
+user14,File Accessed,Normal
+user17,File Created,Normal
+user33,Failed Login,Unauthorized Access
+user25,User Login,Normal
+user22,User Logout,Normal
+user32,Shadow Copy Deleted,Ransomware Activity
+user15,File Created,Normal
+user18,Process Started,Normal
+user33,Failed Login,Unauthorized Access
+user47,User Logout,Normal
+user6,File Accessed,Normal
+user47,User Login,Normal
+user28,Registry Key Modified,Potential Malware
+user19,Registry Key Modified,Potential Malware
+user40,User Logout,Normal
+user23,User Login,Normal
+user46,User Login,Normal
+user3,Suspicious Process Created,Potential Malware
+user48,Successful Login (Unusual Hour),Unauthorized Access
+user43,Failed Login,Unauthorized Access
+user16,User Login,Normal
+user27,User Login,Normal
+user38,Successful Login (Unusual Hour),Unauthorized Access
+user40,Failed Login,Unauthorized Access
+user22,File Created,Normal
+user26,User Login,Normal
+user20,Process Started,Normal
+user43,File Accessed,Normal
+user17,Suspicious Process Created,Potential Malware
+user39,Successful Login (Unusual Hour),Unauthorized Access
+user49,File Created,Normal
+user24,File Created,Normal
+user44,File Accessed,Normal
+user35,User Logout,Normal
+user21,Shadow Copy Deleted,Ransomware Activity
+user7,File Created,Normal
+user35,File Created,Normal
+user4,Shadow Copy Deleted,Ransomware Activity
+user6,User Logout,Normal
+user33,User Logout,Normal
+user3,User Login,Normal
+user41,File Created,Normal
+user33,Suspicious Process Created,Potential Malware
+user28,File Created,Normal
+user27,Process Started,Normal
+user47,Process Started,Normal
+user35,User Logout,Normal
+user37,Process Started,Normal
+user26,User Logout,Normal
+user28,File Created,Normal
+user1,Failed Login,Unauthorized Access
+user41,User Login,Normal
+user9,User Logout,Normal
+user7,File Created,Normal
+user18,File Created,Normal
+user5,File Accessed,Normal
+user50,Process Started,Normal
+user21,Failed Login,Unauthorized Access
+user29,Process Started,Normal
+user29,User Logout,Normal
+user24,Shadow Copy Deleted,Ransomware Activity
+user49,Failed Login,Unauthorized Access
+user8,Process Started,Normal
+user28,Process Started,Normal
+user35,Process Started,Normal
+user22,User Logout,Normal
+user45,File Created,Normal
+user45,User Logout,Normal
+user7,File Accessed,Normal
+user29,Failed Login,Unauthorized Access
+user45,File Created,Normal
+user28,Successful Login (Unusual Hour),Unauthorized Access
+user12,File Created,Normal
+user32,Process Started,Normal
+user28,Successful Login (Unusual Hour),Unauthorized Access
+user35,File Accessed,Normal
+user27,File Accessed,Normal
+user18,Registry Key Modified,Potential Malware
+user40,File Created,Normal
+user26,User Logout,Normal
+user36,User Login,Normal
+user21,User Logout,Normal
+user14,File Accessed,Normal
+user1,User Logout,Normal
+user30,User Login,Normal
+user50,File Accessed,Normal
+user24,Process Started,Normal
+user19,User Login,Normal
+user3,Multiple Files Renamed,Ransomware Activity
+user39,File Accessed,Normal
+user16,File Created,Normal
+user15,Failed Login,Unauthorized Access
+user10,Connection to Known C2 Server,Potential Malware
+user39,User Logout,Normal
+user14,User Logout,Normal
+user36,File Accessed,Normal
+user2,Shadow Copy Deleted,Ransomware Activity
+user38,File Created,Normal
+user8,User Login,Normal
+user31,File Created,Normal
+user13,Process Started,Normal
+user8,Registry Key Modified,Potential Malware
+user33,User Login,Normal
+user29,User Logout,Normal
+user38,Failed Login,Unauthorized Access
+user10,File Accessed,Normal
+user13,User Logout,Normal
+user38,Registry Key Modified,Potential Malware
+user23,Process Started,Normal
+user21,File Accessed,Normal
+user32,File Created,Normal
+user46,Process Started,Normal
+user18,Registry Key Modified,Potential Malware
+user30,File Accessed,Normal
+user49,User Logout,Normal
+user5,File Accessed,Normal
+user3,Process Started,Normal
+user9,User Login,Normal
+user10,Failed Login,Unauthorized Access
+user22,File Accessed,Normal
+user26,File Created,Normal
+user20,User Login,Normal
+user17,User Login,Normal
+user50,User Login,Normal
+user44,Process Started,Normal
+user8,File Accessed,Normal
+user10,User Login,Normal
+user37,Failed Login,Unauthorized Access
+user30,User Login,Normal
+user19,File Accessed,Normal
+user29,Process Started,Normal
+user10,Process Started,Normal
+user22,Process Started,Normal
+user12,User Login,Normal
+user20,User Login,Normal
+user12,User Logout,Normal
+user31,User Logout,Normal
+user31,Failed Login,Unauthorized Access
+user7,User Logout,Normal
+user27,Suspicious Process Created,Potential Malware
+user22,File Accessed,Normal
+user20,User Login,Normal
+user40,Registry Key Modified,Potential Malware
+user35,User Login,Normal
+user28,File Encrypted,Ransomware Activity
+user18,User Logout,Normal
+user16,Failed Login,Unauthorized Access
+user17,User Login,Normal
+user39,User Logout,Normal
+user22,User Login,Normal
+user9,User Login,Normal
+user19,Failed Login,Unauthorized Access
+user3,Process Started,Normal
+user27,File Created,Normal
+user11,User Logout,Normal
+user43,File Accessed,Normal
+user2,Process Started,Normal
+user46,File Accessed,Normal
+user26,File Accessed,Normal
+user7,User Logout,Normal
+user44,Shadow Copy Deleted,Ransomware Activity
+user2,File Accessed,Normal
+user35,Failed Login,Unauthorized Access
+user42,Process Started,Normal
+user46,Process Started,Normal
+user37,Shadow Copy Deleted,Ransomware Activity
+user21,User Logout,Normal
+user4,Suspicious Process Created,Potential Malware
+user49,User Login,Normal
+user3,Process Started,Normal
+user47,Failed Login,Unauthorized Access
+user43,File Encrypted,Ransomware Activity
+user11,Failed Login,Unauthorized Access
+user1,User Login,Normal
+user10,User Login,Normal
+user28,File Created,Normal
+user20,Process Started,Normal
+user12,User Logout,Normal
+user42,File Accessed,Normal
+user36,File Created,Normal
+user42,File Accessed,Normal
+user46,User Logout,Normal
+user48,File Accessed,Normal
+user37,User Logout,Normal
+user8,Process Started,Normal
+user27,User Login,Normal
+user44,User Logout,Normal
+user1,Process Started,Normal
+user34,Process Started,Normal
+user9,File Created,Normal
+user23,User Login,Normal
+user45,Connection to Known C2 Server,Potential Malware
+user45,Suspicious Process Created,Potential Malware
+user14,File Accessed,Normal
+user12,File Accessed,Normal
+user7,User Logout,Normal
+user24,Failed Login,Unauthorized Access
+user7,User Login,Normal
+user26,User Logout,Normal
+user7,File Created,Normal
+user46,Process Started,Normal
+user13,Process Started,Normal
+user14,User Login,Normal
+user25,File Accessed,Normal
+user29,File Created,Normal
+user13,User Login,Normal
+user39,User Login,Normal
+user27,File Created,Normal
+user11,User Login,Normal
+user31,Failed Login,Unauthorized Access
+user27,Connection to Known C2 Server,Potential Malware
+user40,Failed Login,Unauthorized Access
+user24,Process Started,Normal
+user46,File Accessed,Normal
+user13,File Accessed,Normal
+user2,User Login,Normal
+user37,User Logout,Normal
+user47,File Created,Normal
+user18,File Accessed,Normal
+user27,User Login,Normal
+user29,User Login,Normal
+user5,File Accessed,Normal
+user48,File Created,Normal
+user35,File Created,Normal
+user47,Process Started,Normal
+user15,Process Started,Normal
+user32,File Accessed,Normal
+user16,File Accessed,Normal
+user20,Successful Login (Unusual Hour),Unauthorized Access
+user30,Failed Login,Unauthorized Access
+user39,Process Started,Normal
+user35,File Accessed,Normal
+user18,Connection to Known C2 Server,Potential Malware
+user2,User Logout,Normal
+user3,File Created,Normal
+user41,User Logout,Normal
+user32,File Created,Normal
+user14,User Login,Normal
+user15,File Created,Normal
+user6,Successful Login (Unusual Hour),Unauthorized Access
+user9,File Created,Normal
+user13,Multiple Files Renamed,Ransomware Activity
+user20,Connection to Known C2 Server,Potential Malware
+user40,Process Started,Normal
+user14,File Accessed,Normal
+user3,File Accessed,Normal
+user36,File Created,Normal
+user22,Process Started,Normal
+user29,User Login,Normal
+user15,Process Started,Normal
+user14,User Logout,Normal
+user40,Process Started,Normal
+user28,Process Started,Normal
+user30,File Encrypted,Ransomware Activity
+user5,File Accessed,Normal
+user14,Multiple Files Renamed,Ransomware Activity
+user42,Process Started,Normal
+user2,User Login,Normal
+user48,User Logout,Normal
+user50,User Login,Normal
+user18,Registry Key Modified,Potential Malware
+user9,User Login,Normal
+user12,Registry Key Modified,Potential Malware
+user36,User Logout,Normal
+user47,Connection to Known C2 Server,Potential Malware
+user43,User Login,Normal
+user44,File Accessed,Normal
+user40,File Accessed,Normal
+user38,User Logout,Normal
+user45,Process Started,Normal
+user49,File Encrypted,Ransomware Activity
+user49,File Accessed,Normal
+user5,File Accessed,Normal
+user19,User Login,Normal
+user36,File Accessed,Normal
+user50,User Logout,Normal
+user28,Failed Login,Unauthorized Access
+user50,User Logout,Normal
+user4,User Logout,Normal
+user29,User Login,Normal
+user24,File Accessed,Normal
+user28,File Created,Normal
+user18,User Login,Normal
+user6,File Created,Normal
+user3,File Accessed,Normal
+user18,Failed Login,Unauthorized Access
+user23,User Login,Normal
+user45,File Created,Normal
+user46,Process Started,Normal
+user23,File Created,Normal
+user33,User Login,Normal
+user32,File Created,Normal
+user43,User Logout,Normal
+user29,Process Started,Normal
+user17,File Created,Normal
+user22,File Accessed,Normal
+user7,Process Started,Normal
+user38,File Accessed,Normal
+user23,File Accessed,Normal
+user24,File Created,Normal
+user22,User Login,Normal
+user48,Failed Login,Unauthorized Access
+user31,User Login,Normal
+user26,Process Started,Normal
+user17,File Created,Normal
+user18,File Created,Normal
+user49,File Accessed,Normal
+user21,User Login,Normal
+user32,Process Started,Normal
+user29,User Login,Normal
+user34,Process Started,Normal
+user3,Failed Login,Unauthorized Access
+user24,File Accessed,Normal
+user38,Failed Login,Unauthorized Access
+user44,File Accessed,Normal
+user19,File Created,Normal
+user39,Process Started,Normal
+user7,Process Started,Normal
+user27,User Logout,Normal
+user39,User Login,Normal
+user37,File Created,Normal
+user11,User Logout,Normal
+user32,User Login,Normal
+user45,File Created,Normal
+user6,Process Started,Normal
+user29,File Accessed,Normal
+user9,User Logout,Normal
+user5,User Logout,Normal
+user43,User Logout,Normal
+user43,Failed Login,Unauthorized Access
+user42,Process Started,Normal
+user33,File Accessed,Normal
+user46,File Accessed,Normal
+user22,Failed Login,Unauthorized Access
+user2,File Created,Normal
+user1,Process Started,Normal
+user24,File Accessed,Normal
+user7,File Created,Normal
+user32,File Accessed,Normal
+user48,File Accessed,Normal
+user12,Failed Login,Unauthorized Access
+user47,Failed Login,Unauthorized Access
+user14,File Accessed,Normal
+user23,Process Started,Normal
+user37,User Logout,Normal
+user36,File Created,Normal
+user19,User Logout,Normal
+user15,User Login,Normal
+user17,User Login,Normal
+user23,File Created,Normal
+user36,Process Started,Normal
+user23,Process Started,Normal
+user21,User Logout,Normal
+user46,User Login,Normal
+user38,User Login,Normal
+user33,Failed Login,Unauthorized Access
+user13,Process Started,Normal
+user36,File Created,Normal
+user18,Registry Key Modified,Potential Malware
+user35,Process Started,Normal
+user21,User Logout,Normal
+user6,File Created,Normal
+user18,Shadow Copy Deleted,Ransomware Activity
+user23,Registry Key Modified,Potential Malware
+user15,File Accessed,Normal
+user32,Multiple Files Renamed,Ransomware Activity
+user22,User Logout,Normal
+user26,Suspicious Process Created,Potential Malware
+user26,User Logout,Normal
+user27,File Accessed,Normal
+user26,File Created,Normal
+user43,Process Started,Normal
+user50,Successful Login (Unusual Hour),Unauthorized Access
+user42,File Created,Normal
+user29,Process Started,Normal
+user9,Successful Login (Unusual Hour),Unauthorized Access
+user37,Failed Login,Unauthorized Access
+user45,User Logout,Normal
+user24,Successful Login (Unusual Hour),Unauthorized Access
+user2,File Created,Normal
+user44,Process Started,Normal
+user2,User Login,Normal
+user35,Failed Login,Unauthorized Access
+user27,User Login,Normal
+user41,File Created,Normal
+user37,Multiple Files Renamed,Ransomware Activity
+user50,User Logout,Normal
+user32,File Accessed,Normal
+user39,File Accessed,Normal
+user18,User Logout,Normal
+user43,File Created,Normal
+user32,File Encrypted,Ransomware Activity
+user11,File Created,Normal
+user4,User Logout,Normal
+user46,Process Started,Normal
+user22,File Accessed,Normal
+user30,File Accessed,Normal
+user34,User Login,Normal
+user18,File Created,Normal
+user5,Process Started,Normal
+user5,User Logout,Normal
+user40,File Accessed,Normal
+user28,User Logout,Normal
+user44,User Login,Normal
+user25,User Login,Normal
+user18,User Login,Normal
+user38,User Logout,Normal
+user10,Process Started,Normal
+user20,Process Started,Normal
+user6,File Accessed,Normal
+user1,File Created,Normal
+user31,User Login,Normal
+user14,Failed Login,Unauthorized Access
+user47,Failed Login,Unauthorized Access
+user37,File Accessed,Normal
+user18,Successful Login (Unusual Hour),Unauthorized Access
+user40,File Created,Normal
+user33,File Created,Normal
+user9,Connection to Known C2 Server,Potential Malware
+user27,File Accessed,Normal
+user32,Failed Login,Unauthorized Access
+user49,File Accessed,Normal
+user34,Process Started,Normal
+user15,User Login,Normal
+user5,User Logout,Normal
+user15,File Accessed,Normal
+user33,Failed Login,Unauthorized Access
+user33,File Created,Normal
+user23,User Logout,Normal
+user23,Process Started,Normal
+user48,File Accessed,Normal
+user6,User Logout,Normal
+user25,User Login,Normal
+user37,Failed Login,Unauthorized Access
+user29,Successful Login (Unusual Hour),Unauthorized Access
+user29,User Login,Normal
+user25,User Logout,Normal
+user26,Process Started,Normal
+user36,User Login,Normal
+user7,Connection to Known C2 Server,Potential Malware
+user19,User Login,Normal
+user19,Successful Login (Unusual Hour),Unauthorized Access
+user48,Failed Login,Unauthorized Access
+user45,Failed Login,Unauthorized Access
+user22,User Logout,Normal
+user28,Process Started,Normal
+user40,Process Started,Normal
+user18,User Logout,Normal
+user33,Process Started,Normal
+user23,User Login,Normal
+user50,Process Started,Normal
+user29,File Accessed,Normal
+user6,User Login,Normal
+user23,User Login,Normal
+user2,User Login,Normal
+user13,File Accessed,Normal
+user40,Multiple Files Renamed,Ransomware Activity
+user33,File Created,Normal
+user19,Process Started,Normal
+user14,User Logout,Normal
+user30,File Encrypted,Ransomware Activity
+user21,File Accessed,Normal
+user30,Failed Login,Unauthorized Access
+user46,File Accessed,Normal
+user11,Suspicious Process Created,Potential Malware
+user42,Process Started,Normal
+user33,File Accessed,Normal
+user4,User Login,Normal
+user36,File Created,Normal
+user26,Process Started,Normal
+user9,Connection to Known C2 Server,Potential Malware
+user7,File Created,Normal
+user39,Process Started,Normal
+user35,Process Started,Normal
+user13,User Logout,Normal
+user27,User Logout,Normal
+user33,Process Started,Normal
+user41,User Logout,Normal
+user27,File Accessed,Normal
+user14,User Login,Normal
+user10,Connection to Known C2 Server,Potential Malware
+user48,User Logout,Normal
+user40,User Login,Normal
+user16,Successful Login (Unusual Hour),Unauthorized Access
+user39,File Created,Normal
+user26,Process Started,Normal
+user38,Failed Login,Unauthorized Access
+user21,User Logout,Normal
+user28,User Logout,Normal
+user45,User Logout,Normal
+user9,File Accessed,Normal
+user49,File Accessed,Normal
+user7,Successful Login (Unusual Hour),Unauthorized Access
+user26,Failed Login,Unauthorized Access
+user14,File Created,Normal
+user28,User Login,Normal
+user36,File Accessed,Normal
+user19,File Created,Normal
+user19,Failed Login,Unauthorized Access
+user48,User Logout,Normal
+user22,User Logout,Normal
+user40,File Accessed,Normal
+user12,Process Started,Normal
+user7,User Logout,Normal
+user38,File Accessed,Normal
+user11,File Created,Normal
+user34,User Logout,Normal
+user6,File Encrypted,Ransomware Activity
+user23,Connection to Known C2 Server,Potential Malware
+user35,File Created,Normal
+user9,Failed Login,Unauthorized Access
+user27,User Login,Normal
+user30,Process Started,Normal
+user5,File Accessed,Normal
+user43,Failed Login,Unauthorized Access
+user24,User Login,Normal
