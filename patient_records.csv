@@ -1,0 +1,444 @@
+﻿name,age,blood_group,address,phone_number,patients_relative,doctor_name,diagnosis,medical_history
+Anthony Smith,33,O+,"1403 Michele Expressway, Ramirezborough, MO 37676",666.724.5687x9957,Karen Lee,Dr. Green,Viral Fever,Allergic to dust.
+Karl Mcgrath,80,O-,"8267 Patterson Hill Apt. 349, Rogersfort, MO 73991",(582)376-2927x3062,Shelby Lester,Dr. Johnson,Viral Fever,No significant medical history.
+Curtis Kelley,32,O-,"306 Emily Ports, New Heather, ND 37148",862-861-2582,Robyn Lewis,Dr. Adams,Hypertension,Previous history of Jaundice.
+Bradley Velez,65,AB-,"56185 Gonzalez Shoals, Williamsshire, WA 77754",922-904-6878x32693,Maria White,Dr. Harris,Hypertension,No significant medical history.
+Michael Nguyen,52,A+,"PSC 8564, Box 5985, APO AE 67527",(611)636-0476x67361,Andre Jones,Dr. Schroeder,Migraine,Previous history of Jaundice.
+Michael Pham,57,B-,"3637 Suzanne Burgs, East Timothy, GA 07602",(944)365-9650x343,Steven Casey,Dr. Banks,Viral Fever,Previous history of Jaundice.
+Darren Stanley,19,AB+,"90765 English Forest, South Mariachester, AS 00880",487.915.1623,Thomas Burns,Dr. Rodriguez,Acute Gastritis,No significant medical history.
+Calvin Fernandez,46,O+,"344 Wanda Dale, Kathrynborough, SD 84593",876.498.4741x855,Tamara Smith,Dr. Johnson,Type 2 Diabetes,No significant medical history.
+Marissa Oneill,70,O+,"3894 Christopher Terrace Suite 047, Ronaldport, CO 17012",001-810-997-0655x413,Ryan Holland,Dr. Smith,Acute Gastritis,No significant medical history.
+Jesse Gonzalez,39,B+,"484 Tony Island Suite 467, Barbarahaven, ME 50656",001-344-428-0679x758,Joshua Pearson,Dr. Baker,Acute Gastritis,Allergic to dust.
+Paul Thompson,35,A+,"321 Baker Camp, Zacharyshire, OR 76228",8334440080,Joseph Norris II,Dr. Lewis,Viral Fever,No significant medical history.
+James Alvarez,42,O-,"037 Collier Junctions Suite 028, South Jackmouth, IN 99254",001-474-750-3866,Stacey Williams,Dr. Rivera,Type 2 Diabetes,Allergic to dust.
+Derek Simpson,39,A+,"USNV Guzman, FPO AE 97389",(387)795-7409,Jessica Martinez,Dr. Gonzalez,Hypertension,No significant medical history.
+William Johnson,81,A+,"06117 Weber Stravenue Suite 576, Gonzalezfort, PA 24590",001-977-578-7667,Brian Ashley,Dr. Barnett,Hypertension,No significant medical history.
+Michael Hansen,57,B+,"48205 Robinson Shores, Hendersonmouth, ID 09764",(390)463-3605,Jennifer Martin,Dr. Nicholson,Acute Gastritis,No significant medical history.
+Douglas Patel,20,A-,"03826 Deanna Fords Apt. 536, Lake Christinamouth, VT 40293",745.918.6999,Joshua Watson,Dr. Hernandez,Type 2 Diabetes,Allergic to dust.
+Bailey Johnson,40,AB-,"37379 Jennifer Mount, East Daniel, TX 08822",+1-993-910-4866,Deanna Jackson,Dr. Scott,Acute Gastritis,Previous history of Jaundice.
+Claire Owens,26,A-,"3861 Singh Hills Suite 940, North Stacy, NV 09645",+1-824-606-0035,Robert Gibson,Dr. Brown,Viral Fever,Allergic to dust.
+Stephanie Brown,49,O-,"60116 Jamie Walks Suite 954, Hayesfort, TX 38666",(963)405-3798x0734,Laura Santiago,Dr. Yang,Viral Fever,Allergic to dust.
+Sarah Oneal,37,O+,"64529 Johnson Light, South Richardstad, OR 44492",342-235-1771x4625,Vickie Carson,Dr. Taylor,Migraine,No significant medical history.
+Debra Morris,48,B+,"08398 Meadows Prairie, New Steveberg, IL 09250",(497)957-3085,Mandy Thompson,Dr. George,Type 2 Diabetes,Allergic to dust.
+Andrea Garcia,85,AB-,"303 Tammy Tunnel, North Williamland, AR 41200",(417)354-4259x9117,Jean Nolan,Dr. Robles,Viral Fever,Allergic to dust.
+Zachary Li,24,O+,"80623 Guerrero Forest, New Sydney, OR 51784",531-264-0156x40752,Charles Yang,Dr. Clark,Viral Fever,No significant medical history.
+Austin White,21,B+,"6643 David Roads Suite 573, Lake Denisemouth, VT 56950",914.903.4374,Joshua Hayes,Dr. Franklin,Type 2 Diabetes,Previous history of Jaundice.
+Justin Jones,52,A-,"693 Kelly Mews, West Anita, MH 48186",(382)741-0180,Christopher Rodriguez,Dr. Lewis,Acute Gastritis,Allergic to dust.
+Christian Cole,26,AB-,"299 Jeremiah Lodge Suite 754, East Xavier, NM 58408",761-639-4782x685,Martin Woodard,Dr. Taylor,Viral Fever,Allergic to dust.
+Annette Roberts,69,A+,"042 David Station Apt. 200, North Elizabethbury, NM 56851",+1-518-444-9197x09025,Nicholas Wilson,Dr. Torres,Migraine,Allergic to dust.
+Sarah Hickman,79,A-,"Unit 9340 Box 9674, DPO AP 50017",494-358-9254x5738,Kimberly Mitchell,Dr. Brock,Migraine,Previous history of Jaundice.
+Mary Allen,27,AB-,"4496 Brown Isle Suite 993, New Vincentchester, MH 82268",631-840-1778,Johnny Perry,Dr. Rios,Type 2 Diabetes,Allergic to dust.
+Elizabeth Jones,57,AB+,"197 Mcclure Plaza Suite 268, New Charles, MN 43059",2687784330,Sophia Jones,Dr. Landry,Acute Gastritis,No significant medical history.
+Dale Jackson,43,B-,"2620 Jamie Keys Suite 296, Murphytown, ID 76447",627.720.4987x009,James Cardenas,Dr. King,Acute Gastritis,Allergic to dust.
+Dawn Morgan,72,AB+,"147 Hanna Flats Suite 227, Matthewsstad, MD 38469",+1-688-330-4478x12553,Thomas Turner,Dr. Gallagher,Migraine,No significant medical history.
+Amber Riggs,83,B+,"8026 Matthew Rue Apt. 530, Port Heatherside, CT 00960",(229)949-7833,Stephen White,Dr. Butler,Type 2 Diabetes,Allergic to dust.
+Todd Jackson,67,A-,"0734 Small Land Apt. 265, Luisfurt, NH 54974",+1-649-425-5192x0382,Christian Bray,Dr. Ortiz,Type 2 Diabetes,Previous history of Jaundice.
+Mrs. Michelle Barrett,53,AB-,"5111 Amy Trail, West Kevin, VT 53201",(817)296-7157x04315,William Caldwell,Dr. Jones,Migraine,Previous history of Jaundice.
+William Estrada,78,O+,"7140 James Ridges, Brownburgh, NM 95006",835.247.1156x753,Kathleen Dean,Dr. Brown,Hypertension,Previous history of Jaundice.
+Peter Chavez,75,A-,"939 Stewart Knolls, Samanthaborough, WI 24286",+1-558-227-4189,Alan Henderson,Dr. Day,Acute Gastritis,Allergic to dust.
+Jessica Miller,77,B+,"0920 James Port, Austintown, OR 93696",(591)415-1041x9903,Alyssa Jennings,Dr. Perry,Acute Gastritis,Allergic to dust.
+Maria Kane,25,AB-,"Unit 9002 Box 8873, DPO AE 00976",001-834-359-4246x8557,Manuel Brennan,Dr. Scott,Acute Gastritis,No significant medical history.
+Zachary Hicks,50,A+,"944 Deanna Forest Apt. 937, Keithstad, IN 78066",320.688.9829x66822,Christopher Wright,Dr. Lawson,Acute Gastritis,No significant medical history.
+David Gibson,66,AB-,"654 Dawn Knolls, Ericabury, DC 70144",(738)672-3447,David Jones,Dr. Wiley,Acute Gastritis,No significant medical history.
+Paul Donaldson,62,B-,"6458 Johnson Pass Suite 647, West Brentmouth, IN 17377",(574)386-2091x0750,Tamara Adams,Dr. Stout,Acute Gastritis,Allergic to dust.
+Katie Gomez,48,A-,"740 Victoria Land Suite 081, Rogersville, MS 74758",(819)382-5112,Sarah Johnson,Dr. Osborn,Viral Fever,No significant medical history.
+Heather Mcdonald,81,A-,"768 Collins Parks Suite 176, Markland, PA 42886",(937)768-7594x51594,Wanda Wilkerson,Dr. Bell,Acute Gastritis,No significant medical history.
+Sarah Bridges,58,A-,"USCGC Guzman, FPO AP 87664",+1-882-368-6707x54353,Bethany Johnson,Dr. Downs,Viral Fever,Allergic to dust.
+Samantha Stewart,75,O+,"2467 Perez Corner, Ruthfurt, NJ 60393",+1-255-828-1757x039,Anthony Ritter,Dr. Rice,Hypertension,Allergic to dust.
+Jason Walsh,26,A+,"810 Carla Shore Apt. 727, Richardstad, LA 25501",+1-470-263-6408x64747,Karen Sexton,Dr. Porter,Hypertension,No significant medical history.
+Pamela Huff,71,B+,"1890 Barton Inlet, East John, GA 87797",810.286.5683,Kristine Jimenez,Dr. Watson,Migraine,Previous history of Jaundice.
+Pamela Anderson,55,B-,"Unit 0286 Box 1841, DPO AE 94902",5732439780,Colton Smith,Dr. Carroll,Migraine,No significant medical history.
+Donna Shaffer,52,A+,"35384 Thomas Wells Suite 965, Rebeccatown, FL 36223",765-784-4592x3443,Laura Lee,Dr. Ryan,Acute Gastritis,No significant medical history.
+David Williamson,19,A+,"528 Myers Trail, East Shawn, AR 29090",981.638.8054,Makayla Williams,Dr. Duncan,Type 2 Diabetes,Previous history of Jaundice.
+Joshua Kelley,39,AB-,"975 Steven Circles Apt. 921, Angiemouth, AS 99445",(813)626-1421x747,Ronald Mckinney,Dr. Watson,Migraine,Previous history of Jaundice.
+Wayne White,25,A+,"9347 Obrien Track, Lake Rebeccaport, KY 12572",(596)282-6470x61129,Benjamin Stone,Dr. Brown,Viral Fever,Allergic to dust.
+Laura Martinez,32,A-,"0482 Bryant Highway, Lake Nicholasburgh, MI 33817",793-881-9175x073,Susan Gonzalez,Dr. Cole,Acute Gastritis,Previous history of Jaundice.
+Daniel Rivas,26,A+,"4604 Fisher Camp Suite 330, New Cliffordport, MS 81156",(421)504-3824,Wayne Brady,Dr. Hebert,Migraine,No significant medical history.
+Daniel Wyatt,67,A-,"239 Silva Islands Suite 729, Port Jessica, MH 74432",7465345633,Robin Henson,Dr. Tyler,Acute Gastritis,Previous history of Jaundice.
+Justin Smith,73,A+,"USNV Jones, FPO AE 49875",+1-451-564-6379,Mr. William Foster,Dr. Olson,Viral Fever,No significant medical history.
+Amanda Manning,29,A-,"564 Alexis Spurs, Gallegosstad, LA 53757",842-733-4652,Andrea Wilson,Dr. Miller,Viral Fever,Previous history of Jaundice.
+Norman Lopez,34,O-,"31635 Rita Hills Suite 636, Duncanville, MO 94490",667.772.1941,Christopher Thompson,Dr. Massey,Hypertension,Previous history of Jaundice.
+Kyle Frazier,71,B-,"0478 Beck Burgs Apt. 270, Dudleyport, CT 22414",508.227.1111,Andrea Parks,Dr. Matthews,Hypertension,No significant medical history.
+Dennis Williams,76,A+,"65033 Gary Ramp Suite 969, Nicoletown, IN 25159",+1-513-560-2102x49437,William Jones DVM,Dr. Simmons,Type 2 Diabetes,Allergic to dust.
+Kimberly Wilkins,60,O-,"2423 Mayer Rest Suite 451, Johnstad, IA 17080",610-462-4436x519,William Kennedy,Dr. Ramirez,Migraine,Allergic to dust.
+Jennifer Johnson,66,AB-,"09885 Victoria Garden Apt. 953, Lake Allen, HI 67758",+1-898-578-1777x032,Douglas Hall,Dr. Washington,Viral Fever,Previous history of Jaundice.
+Jessica Holloway,24,B+,"2657 Lisa Plain Apt. 855, New Jeffery, HI 05895",001-660-821-2168x08028,Kevin Cline,Dr. Travis,Acute Gastritis,No significant medical history.
+Gregory Brown,74,A-,"6742 Emily Isle, Mooreland, SC 27090",5536574014,Scott Hunter,Dr. Lane,Acute Gastritis,No significant medical history.
+Holly Brooks,67,AB+,"551 Lee Freeway Suite 932, Barrybury, NV 15869",414.845.9525x433,Kenneth Harding,Dr. Barron,Hypertension,No significant medical history.
+Leslie Molina,26,A-,"Unit 0229 Box 9762, DPO AE 63045",884-383-6076x32668,Angela Clark,Dr. Sims,Type 2 Diabetes,Allergic to dust.
+April Gonzales,35,O-,"56408 Mitchell Point Suite 847, Melissafort, TX 96941",001-437-410-3287x8551,Monique Marquez,Dr. Miller,Viral Fever,Allergic to dust.
+Jose Ryan,22,O-,"96023 Williams Drive, Port Jaredhaven, HI 98248",001-573-687-9426x47475,Michael Lee,Dr. Yoder,Migraine,No significant medical history.
+Cathy Kelley,70,A-,"01957 Hart Centers Apt. 293, Jenniferport, AZ 07129",556-525-8261x43028,Travis Sawyer,Dr. Baker,Migraine,Previous history of Jaundice.
+William Moss,65,O-,"USNS Hines, FPO AP 69106",+1-673-495-8897x94977,Catherine Jordan,Dr. Baldwin,Acute Gastritis,Allergic to dust.
+Mr. Christopher Herman DDS,83,B+,"3188 Medina Mill Suite 697, West Justin, AL 74175",544-260-9947x6371,Christopher Cunningham,Dr. Watson,Viral Fever,No significant medical history.
+Joshua Coleman,48,A+,"08843 Ward Branch, Dawnshire, NM 54934",551.903.0884,Elizabeth Gross,Dr. Lynch,Migraine,No significant medical history.
+Kevin Gray,76,AB-,"1855 Lopez Corner, North Christopherside, MI 13084",(327)803-4900x1920,Steven Clark,Dr. Smith,Type 2 Diabetes,Allergic to dust.
+Daniel Kennedy,61,A+,"645 Young Pines Suite 846, East Aprilview, DC 53154",552.277.5557,Kayla Berry,Dr. Grimes,Migraine,No significant medical history.
+Stephen Campbell,26,AB-,"87856 George Way, Port David, DC 17609",7883699169,Michael Howard,Dr. Scott,Type 2 Diabetes,Previous history of Jaundice.
+Donna Powell,69,A-,"9594 Anna Isle Suite 173, Marcuschester, MN 37530",748.775.7003x897,April Farley,Dr. Miranda,Acute Gastritis,Previous history of Jaundice.
+Carol Howell,32,O-,"599 Keith Keys Apt. 867, East Susanchester, MS 39428",+1-730-214-3500,Melissa Sims,Dr. Bradley,Migraine,Allergic to dust.
+Ashlee Haas,59,O+,"018 West Summit Suite 171, Justinmouth, IA 55475",(526)792-7919x0707,Kathryn Edwards,Dr. Martin,Acute Gastritis,Previous history of Jaundice.
+Henry Wood,84,A+,"USCGC Miller, FPO AP 04254",489-260-2878,Angela Martinez,Dr. Hughes,Migraine,Allergic to dust.
+Kimberly Mcdowell,26,A+,"463 Walter Crest Suite 852, North Alex, RI 89584",314-608-5041x6551,Allison Johnson,Dr. Rhodes,Acute Gastritis,No significant medical history.
+Michael Nguyen,39,A-,"709 Singh Flat, Jonathanmouth, DE 82227",895-779-6334,Christine Rosario,Dr. Reese,Hypertension,No significant medical history.
+Carrie Mclean PhD,22,B-,"9146 Nelson Court Apt. 412, Elizabethfurt, OK 36243",+1-786-756-4396,Angela Skinner,Dr. Bennett,Viral Fever,No significant medical history.
+Lauren Davis,40,A-,"7255 Dakota Mount Suite 796, Ashleyport, CO 21619",685-624-8563x1412,Justin Bridges,Dr. Ramos,Hypertension,No significant medical history.
+Travis Bailey,72,O+,"869 Gutierrez Cove, West Brandi, PW 56982",930.670.5862,Ryan Smith,Dr. Benitez,Hypertension,Allergic to dust.
+David Duarte,69,A-,"35684 Baker Locks, Carlosberg, KS 93669",001-467-679-0202x0996,Erica Cole,Dr. Holland,Viral Fever,Previous history of Jaundice.
+Randy Molina,77,O-,"2148 David Lakes Apt. 429, Burnsville, VI 59188",645-626-5654x7528,Joy Griffin,Dr. Norman,Viral Fever,No significant medical history.
+Jonathan Kelley,41,A+,"6629 Wagner Locks Suite 130, Allenville, OH 37376",557.733.9632x3443,Michael Tyler,Dr. Bush,Viral Fever,No significant medical history.
+Christina Wu,53,A-,"85617 Heather Mews Suite 861, Mirandaton, MH 13675",(462)402-6669,Vincent White,Dr. Phillips,Viral Fever,Previous history of Jaundice.
+John Anderson,70,A+,"4950 Melanie Extensions Suite 406, North Jo, MH 54116",603.979.4089x835,Brenda Williams,Dr. Jefferson,Viral Fever,Previous history of Jaundice.
+Michelle Fuller,26,A-,"85317 Perry Park, Millerburgh, OR 40037",817-894-7790,Theresa Durham,Dr. Hanson,Hypertension,Allergic to dust.
+Jennifer Jenkins,19,B+,"04461 Hansen Trace Suite 034, Lake John, MD 94853",347.291.8069x6578,Amanda Foster,Dr. Campbell,Migraine,No significant medical history.
+Christopher Hernandez,52,B-,"14357 Ferrell Locks Suite 091, Jeffreymouth, CO 14490",+1-619-634-6257,Lindsay Cervantes,Dr. Edwards,Viral Fever,Allergic to dust.
+Adrian Rogers,33,A-,"85728 Alexa Islands, Lauraton, TN 58922",444.282.0800x4089,Charles Davis,Dr. Thompson,Acute Gastritis,Previous history of Jaundice.
+Ashley Scott,40,O+,"740 Cooper Mountain, West Craig, SC 78167",689-751-2316,Philip Peters,Dr. Harris,Viral Fever,Previous history of Jaundice.
+Margaret Krause,72,AB-,"21822 Roberta Prairie, New Brendachester, RI 93719",490-436-4735x03325,Kelly Reid,Dr. Costa,Acute Gastritis,No significant medical history.
+Tara Davis,36,B+,"24967 Carlos Turnpike Suite 612, Vanessamouth, NE 95384",3857284201,Jason Reynolds,Dr. Mitchell,Acute Gastritis,No significant medical history.
+Benjamin Baldwin,34,B-,"500 Amanda Rapids, Port Robert, ND 16180",704.414.8473x0134,Jonathan Hendricks,Dr. Norris,Migraine,No significant medical history.
+Nicholas Collins,27,AB+,"PSC 2307, Box 6845, APO AA 48237",425-596-8001,Brianna Atkins,Dr. Mason,Hypertension,Allergic to dust.
+Michael Walls,49,AB-,"17894 Adams Glens, Kristinaland, DE 48627",(649)795-9336,Jessica Wiggins,Dr. Harris,Viral Fever,Previous history of Jaundice.
+Erin Mcintosh,74,O+,"06193 Cynthia View Apt. 486, Lake Sarah, ND 22256",834.306.6977x2178,Bradley Munoz,Dr. Huff,Viral Fever,Allergic to dust.
+Mallory Curtis,68,B-,"615 Timothy Terrace Apt. 763, East Paulville, ID 38181",366.461.5648x1579,Michael Brewer,Dr. Valdez,Type 2 Diabetes,Allergic to dust.
+Paul Elliott,29,AB+,"88381 Vanessa Well Apt. 209, Lake Melinda, NJ 08740",001-252-327-0489,Catherine Atkinson,Dr. Caldwell,Migraine,Allergic to dust.
+Michelle Short,80,A+,"912 Gilbert Viaduct, South Dale, GA 31571",001-888-613-9604x435,Katherine Riley,Dr. Randall,Migraine,No significant medical history.
+Carolyn Jones,21,B-,"528 Sarah Park Apt. 863, Andreview, ME 84460",001-271-830-6420x0377,Kenneth Ramos,Dr. Sandoval,Migraine,Previous history of Jaundice.
+Michael Mitchell,58,O+,"PSC 7514, Box 4439, APO AA 11545",916.925.3396x1440,Zachary Doyle,Dr. Wagner,Viral Fever,Previous history of Jaundice.
+Brenda Holland,65,O+,"240 Padilla Keys Suite 706, Courtneyburgh, ID 74186",8899913355,Steven Fitzpatrick,Dr. Livingston,Migraine,Previous history of Jaundice.
+Rebecca Ramirez,73,O-,"1281 James Road Suite 722, Port Maryview, HI 09659",(400)708-9526x238,Jenny Kirk,Dr. Hall,Viral Fever,Previous history of Jaundice.
+Elizabeth Powers,28,B+,"207 Garcia Point Suite 129, Port Jacob, DC 11120",407.215.9426,Adam Taylor,Dr. Preston,Viral Fever,Allergic to dust.
+Michael Freeman,62,B+,"7309 Kathy Street Apt. 027, Marshborough, HI 01779",3874488612,Franklin Lopez,Dr. Allen,Viral Fever,No significant medical history.
+Lori Riley,29,A+,"8094 Evans Fords, East Michael, NM 97785",+1-859-519-1886x07081,Jillian Rasmussen,Dr. Roach,Acute Gastritis,No significant medical history.
+Charles Carroll,63,B+,"01608 May Union Suite 518, South Victoria, WV 16056",001-689-498-2894,Robert Miller,Dr. Parker,Hypertension,Previous history of Jaundice.
+Chelsea Stephens,35,AB-,"9190 Mary Green, Lake Brittanystad, GA 95684",(835)694-4546x5820,Brandy Martin,Dr. Garcia,Type 2 Diabetes,Previous history of Jaundice.
+Marilyn Carter,60,A+,"2706 Donald Points Apt. 090, North Josephview, HI 47850",789.996.6590,Clifford Reynolds,Dr. Miranda,Acute Gastritis,Previous history of Jaundice.
+Adriana Donovan,69,O+,"037 Garcia Junctions Suite 213, Martinshire, VA 24361",001-480-308-7040x466,Christopher Patterson,Dr. Lucas,Viral Fever,Previous history of Jaundice.
+Stephanie White,50,O+,"922 Brianna Valley, West Jamieport, SC 53561",(261)220-9209x8730,Kristie Morgan,Dr. Weber,Hypertension,No significant medical history.
+Robert Jackson,38,B+,"63318 Perez Circle Suite 612, Patelbury, CT 07212",333-325-2903x626,Eric Ferrell MD,Dr. Richards,Hypertension,No significant medical history.
+Brandy Simmons,73,B+,"338 Thompson Loop, Natalieborough, WY 35208",288.963.5519x6720,Christina Miller,Dr. Barnett,Migraine,Allergic to dust.
+Tony Johnson,64,O+,"11142 Burgess Lake, North Michaelberg, MT 66716",461-496-9007x53137,Donna Coleman,Dr. Avery,Acute Gastritis,No significant medical history.
+Christopher Castillo,33,B+,"3423 Wheeler Port Apt. 964, Port Alexander, MI 35895",(429)435-1935,Joshua Mays,Dr. Ramsey,Acute Gastritis,No significant medical history.
+David Carter,40,B+,"Unit 1729 Box 5893, DPO AE 74806",+1-908-269-4875x7344,Juan Brown,Dr. Schmidt,Migraine,No significant medical history.
+Alexander Clark,19,AB+,"PSC 4348, Box 1100, APO AP 50837",(534)222-4216,Timothy Morrison,Dr. Solis,Hypertension,No significant medical history.
+Joe Nelson,41,AB-,"38624 Kenneth Points Suite 667, New Tina, MS 04350",811.888.8530x985,Linda Alexander,Dr. Livingston,Viral Fever,No significant medical history.
+Brenda Harper,79,O-,"60428 Gonzales Rapid Apt. 394, West Joshuaborough, HI 07129",+1-994-735-5882x9213,Amanda Martinez,Dr. Jones,Migraine,Previous history of Jaundice.
+Christina Salazar,34,AB-,"PSC 8526, Box 1990, APO AE 80867",581.577.0097x372,Edgar Farmer,Dr. Mckinney,Type 2 Diabetes,No significant medical history.
+Charles Murray,47,A-,"2666 Samantha Estates, Port Claudiabury, NV 91476",(809)422-1193x8254,Stephanie Boyer,Dr. Ramos,Viral Fever,Allergic to dust.
+Andrew Williams,50,A+,"5659 Hernandez Track Apt. 557, New Kelly, ME 86423",(778)614-1589,Brenda Arnold,Dr. Spencer,Acute Gastritis,Previous history of Jaundice.
+Christopher Phillips,76,A-,"295 Greene Route, Lake Ashleyport, RI 35880",+1-777-807-9377x8446,Patrick York,Dr. Vega,Viral Fever,Allergic to dust.
+Karla Grant,46,B+,"7219 Julie Summit Suite 872, New Melissaberg, MT 39478",(480)902-2201x16742,Breanna Banks,Dr. Patterson,Viral Fever,Previous history of Jaundice.
+Douglas Stewart,63,B-,"9096 Travis Flats Apt. 025, Ruizchester, MI 98338",5607696567,Michelle Kramer MD,Dr. Knight,Type 2 Diabetes,No significant medical history.
+Derek Allen,38,O-,"31543 Sophia Heights, Serranomouth, FM 02278",721.444.6417x082,Kenneth Miller,Dr. Sherman,Acute Gastritis,Previous history of Jaundice.
+Parker Medina,39,A+,"64114 Nicole Rapid Suite 581, Port Sydney, WI 78811",790.724.6953x508,Brittany Fleming,Dr. Scott,Viral Fever,Allergic to dust.
+Dr. Stacy Roberts,57,O-,"9291 Rhonda Mills, Kennethside, SC 50175",240-552-4955,Alice Hernandez,Dr. Davis,Hypertension,Previous history of Jaundice.
+Clayton Johnson,36,AB+,"Unit 6865 Box 0797, DPO AP 00758",(538)815-2638x8466,Alan Sullivan,Dr. Davis,Type 2 Diabetes,Allergic to dust.
+Sarah Lee,53,A-,"0463 Kara Path, South Ian, OK 34218",758.673.1000,Gavin Singleton,Dr. Galvan,Type 2 Diabetes,Allergic to dust.
+Gregory Chung,39,O-,"1305 Cox Mews, Nataliehaven, MT 69472",783.640.7122,Manuel Hebert,Dr. Ho,Acute Gastritis,No significant medical history.
+Dan Guerrero,46,A-,"92445 Friedman Alley, South Connorhaven, MD 38719",001-223-889-9050x0567,Justin Vaughan,Dr. Massey,Hypertension,Previous history of Jaundice.
+Christina Morrow,28,A+,"3484 Megan Drive Apt. 021, East Timothy, VT 07968",(647)754-5283,Julian Cooper,Dr. Peterson,Migraine,No significant medical history.
+Michelle Glover,68,A+,"298 Ray Roads, Port Sheliashire, SC 74036",465-573-5886,Christine Patterson,Dr. Craig,Type 2 Diabetes,Allergic to dust.
+William Richards,36,B-,"253 Andrew Lane Suite 201, South Ashleyside, MI 81496",980.430.0206x28800,Carol Graves,Dr. Ortega,Migraine,Allergic to dust.
+James Fisher,74,B-,"84866 Nicholas Brook Apt. 778, Smithtown, NH 82196",001-304-624-7610,Jo Long,Dr. Rose,Type 2 Diabetes,Previous history of Jaundice.
+Beth Erickson,57,AB+,"PSC 3093, Box 7468, APO AA 23245",270-227-4913,David Jones,Dr. Tran,Viral Fever,Allergic to dust.
+Theresa Torres,33,B+,"4268 Jodi Villages, Kennethtown, AZ 90362",+1-723-749-9970x82301,Andrew Savage,Dr. Herrera,Hypertension,No significant medical history.
+Brenda Clark,50,A-,"8148 Thompson Rue Apt. 340, Phamtown, NH 73361",+1-726-717-0467x8315,Robert Rosario,Dr. Duarte,Migraine,Allergic to dust.
+Lori Davis,38,AB-,"65529 Barbara Mountains Suite 078, East Elizabeth, WV 34067",945-728-3754x932,Robert Castro,Dr. Horn,Migraine,No significant medical history.
+Nicholas Blackburn,77,A-,"29939 Nelson Road Apt. 796, Powersville, KS 19754",(381)353-0615x04759,Charles Hinton,Dr. Fisher,Acute Gastritis,Previous history of Jaundice.
+Loretta York,21,AB-,"32128 Wright Falls, North Michaeltown, FM 92109",9208773975,Ryan Stewart,Dr. Garcia,Type 2 Diabetes,Allergic to dust.
+Elaine Gonzalez,69,A+,"5316 Oscar Ways Apt. 982, Mitchellfort, MA 20622",886.617.0708x812,Karen Gentry,Dr. Reed,Hypertension,No significant medical history.
+Rebecca Burke,35,O+,"06311 Matthew Row, South James, SC 74210",+1-623-209-8373x7319,Justin Murphy,Dr. Torres,Migraine,No significant medical history.
+Melissa Davis,71,A-,"9002 David Knolls, South Benjamin, TN 33183",001-628-238-3864,Erin Allen,Dr. Jimenez,Type 2 Diabetes,Allergic to dust.
+Ryan Mason,63,B-,"929 Juarez Lodge, South Bethburgh, OH 28066",425-387-3212x442,Christian Hicks,Dr. Barrett,Hypertension,Allergic to dust.
+Charlene Price,79,A-,"29573 Richardson Inlet, Port Erinborough, NY 78382",658.518.9974,Connie Cross,Dr. Hall,Acute Gastritis,No significant medical history.
+Robert Newman,56,AB+,"56692 Mccullough Street, Harrisside, KS 92714",9802239204,Amanda Herring,Dr. Gallagher,Viral Fever,Previous history of Jaundice.
+John Hurley,45,AB+,"31215 Amy Course Suite 523, Lisatown, RI 45111",+1-423-567-0769,Tyler Garner,Dr. Peterson,Hypertension,No significant medical history.
+Richard Robinson,40,O+,"835 Tina Mountain, North Ryan, HI 06784",001-462-462-2755x9117,Martin Friedman,Dr. Wood,Hypertension,No significant medical history.
+Kelly Ortega,40,A+,"33237 Krueger Ridge Apt. 824, East Sabrina, MP 91705",5615696559,Mary Martinez,Dr. Conley,Hypertension,Allergic to dust.
+Kathy Allen,85,AB-,"63459 Ruiz Corner, South Abigail, MS 45311",825-800-0588x482,Madison Thomas,Dr. Davis,Viral Fever,Previous history of Jaundice.
+Samantha Ferguson,81,O-,"45698 Carr Field Apt. 141, Justinchester, SD 58282",001-507-800-6654x13806,Joshua Rios,Dr. Rosales,Migraine,No significant medical history.
+Austin Stanley,60,O-,"909 Taylor Ford Apt. 018, Evansview, ID 83763",(723)453-1041x97709,Matthew Brown,Dr. Harvey,Type 2 Diabetes,Previous history of Jaundice.
+Mallory Davis,35,B-,"Unit 1193 Box 5986, DPO AP 15064",+1-488-405-2824x97331,Michael Martinez,Dr. Blanchard,Type 2 Diabetes,Allergic to dust.
+Brent Brooks,45,A+,"7263 Robert Ford Apt. 627, Smithshire, NM 55251",9747778970,Crystal Armstrong,Dr. Rose,Type 2 Diabetes,Previous history of Jaundice.
+Kristen Gonzales,79,B+,"USNS Fisher, FPO AP 54390",672.635.3697x8537,Jeffrey Williams,Dr. Martinez,Acute Gastritis,Previous history of Jaundice.
+Sabrina Woods,28,A+,"813 Jeremy Divide Suite 071, Markhaven, RI 29649",(550)589-2625x812,Steve Williamson,Dr. Foster,Viral Fever,Allergic to dust.
+Meredith Bell,64,AB-,"5997 Cordova View, Joseside, OR 25264",218-461-5924x325,Douglas George,Dr. Mcmillan,Hypertension,No significant medical history.
+Aaron Oconnor,34,O+,"9552 Eddie Mountain, Moniquestad, NJ 38988",(757)734-3137,Kayla Hanson,Dr. Johnson,Type 2 Diabetes,Allergic to dust.
+Connie Clark,84,A+,"1000 Thompson Mill, Lake Shelleyborough, FL 72480",222.697.0273,Penny Hernandez,Dr. Ali,Hypertension,Previous history of Jaundice.
+Rita Walker,59,AB-,"9975 Villarreal Underpass, Meredithberg, WV 21208",001-816-331-1266x2004,Michele Turner,Dr. Chen,Hypertension,Allergic to dust.
+Kelly Carrillo,65,AB+,"83033 James Springs Apt. 290, Paulshire, MT 87452",+1-384-552-3020x673,Brandon Gomez,Dr. Elliott,Hypertension,Allergic to dust.
+Laurie Brown,67,B+,"2718 Jackson Track Apt. 441, West Joshuatown, MT 24460",(230)538-1982x324,Michael Kerr,Dr. Shields,Acute Gastritis,Allergic to dust.
+Alexander Miller,57,A-,"89695 Michael Lane Apt. 217, Riosberg, NY 85325",3636748338,Jeffrey Prince,Dr. Hernandez,Type 2 Diabetes,Allergic to dust.
+Stacy Jimenez,22,A+,"489 Matthew Stravenue, South William, AL 76881",+1-370-537-1084,Erica Koch,Dr. Vasquez,Hypertension,Allergic to dust.
+Morgan Scott,49,B-,"5056 Kathy Views Apt. 655, Ashleyland, PR 06001",001-392-570-7084x1185,Lindsay Mcclure,Dr. Aguilar,Type 2 Diabetes,No significant medical history.
+Derek Payne,58,A-,"222 Nichols Trace Suite 975, Millerburgh, FL 34119",001-714-241-7962x47224,Marcus Decker,Dr. Williams,Viral Fever,Previous history of Jaundice.
+Zachary Smith,51,AB-,"21482 Thomas Land Suite 371, Kimberlyberg, RI 44016",(372)401-0227x18637,Brittney Larsen,Dr. Johnson,Type 2 Diabetes,Previous history of Jaundice.
+Julie Myers,65,A+,"8059 Anderson Ports, Taylorburgh, NM 54130",(703)253-1463x9094,Jessica Miller,Dr. Mack,Type 2 Diabetes,Previous history of Jaundice.
+Mr. Zachary Mclaughlin MD,66,O-,"855 Harris Passage, Angelaview, MI 72788",635-443-1456x35538,Ashley Weiss,Dr. Andrade,Type 2 Diabetes,Allergic to dust.
+Cynthia Hill,26,O+,"8834 Steven Ridge Suite 361, Obrienberg, SC 63167",376.571.5548x229,Donna Brown,Dr. Taylor,Hypertension,No significant medical history.
+Dominique Williams,29,O-,"1831 Alexa Knolls Apt. 825, Jadefort, NY 68087",902.733.6982x0744,Jeffrey Morales,Dr. Campbell,Acute Gastritis,No significant medical history.
+Randy Lopez,55,AB-,"900 Trevor Springs, Rachelside, GA 91462",+1-764-661-4559,Kenneth Morris,Dr. Oneill,Hypertension,Allergic to dust.
+Lisa Moss,20,O-,"487 Rice Field, North James, OR 23610",+1-452-509-0386x51238,Kevin Mcpherson,Dr. Walsh,Hypertension,No significant medical history.
+Mrs. Ashley Wright,47,O-,"88975 Turner Fort Suite 100, Dayburgh, VI 85362",(922)317-5720,James Ho,Dr. Smith,Type 2 Diabetes,Previous history of Jaundice.
+Brian Clayton,46,A-,"90135 Lloyd Lock, Wolfeville, TN 02705",001-659-730-3482x54003,Stephanie Moreno,Dr. Hines,Migraine,Previous history of Jaundice.
+Raven Mueller,42,AB+,"8439 Jose Dale, Johnsonland, NV 58149",001-368-969-8462,Laurie Johnson,Dr. Hart,Acute Gastritis,Allergic to dust.
+Antonio Phelps,50,B+,"87137 Hinton Keys, East Kristenfurt, MH 10988",+1-558-770-5713x05236,Christopher Washington,Dr. Fisher,Type 2 Diabetes,No significant medical history.
+Kevin Brooks,28,O-,"92963 Haynes Prairie, West John, CT 12392",(745)899-4259,Christina Hudson,Dr. Snyder,Viral Fever,No significant medical history.
+Kevin Porter,40,A+,"36910 Drake Green Suite 564, Billychester, TX 10393",4348474303,Angel Bean,Dr. Johnson,Migraine,No significant medical history.
+Mark Anderson,60,O-,"856 Davis Road, East Charlestown, NH 58058",+1-987-937-0167,Dawn Smith,Dr. Wright,Acute Gastritis,Allergic to dust.
+Jessica Villanueva,40,O-,"8480 Nicholas Park Apt. 455, Rogerfurt, WY 77151",768.871.1747,Christopher Alexander,Dr. Jackson,Type 2 Diabetes,No significant medical history.
+Jeffrey Wilson,44,AB+,"12327 Autumn Locks, Pacehaven, WV 78856",001-584-735-6942x15080,Michelle Simpson,Dr. Glass,Hypertension,No significant medical history.
+Linda Alexander,38,O-,"039 Joseph Locks Suite 780, Nathanielton, WY 15866",001-789-520-8067x060,Megan Frank,Dr. Sanchez,Viral Fever,Previous history of Jaundice.
+Stephen Willis,24,AB+,"72647 Johnny Court Suite 226, Luisfurt, OK 27657",340-316-6097,Theodore Cochran,Dr. King,Migraine,No significant medical history.
+Rachel Collins,57,AB+,"219 Elijah Road Suite 792, South Sethfurt, ME 83137",+1-340-286-5440x90106,Joseph Rocha,Dr. Thomas,Type 2 Diabetes,Allergic to dust.
+Angela Arias,36,B+,"239 Stevens Manors Suite 251, Port Paulview, VA 37412",(410)790-5030x355,Michael Kelly,Dr. Ortega,Type 2 Diabetes,No significant medical history.
+Ashlee Wilson,23,A+,"720 Hicks Manor, North Michaelland, LA 63480",+1-391-293-2391x274,David Bowers,Dr. Miller,Migraine,Previous history of Jaundice.
+Carol Greene,84,O-,"5330 Jason Forge Suite 305, Arnoldburgh, PA 58960",001-592-810-2781x98088,Cassandra Gray,Dr. Black,Acute Gastritis,No significant medical history.
+Patricia Jackson,65,AB+,"1128 Kimberly Unions Apt. 292, North Kevin, MN 75910",+1-816-342-0266x68948,Richard Day,Dr. Ward,Acute Gastritis,No significant medical history.
+Stephen Davis,68,O-,"61685 Brown Falls, Robertstad, NY 90119",823-310-6809x145,Robert Wood,Dr. Pennington,Migraine,No significant medical history.
+Dana Fitzgerald,25,B-,"51584 Hernandez Heights Apt. 310, Port Lawrence, SC 46393",309-291-9689x1929,Tara Williams,Dr. Wong,Type 2 Diabetes,Previous history of Jaundice.
+Kathryn Davis,74,O+,"9112 Gillespie Shore Suite 088, Michealfurt, IN 92734",614-750-3252x509,Jennifer Ramos,Dr. Carey,Viral Fever,Previous history of Jaundice.
+Matthew Payne,79,A-,"8986 Collins Circle, East Jill, FM 47868",912-968-0262,Elizabeth Jones,Dr. Jackson,Viral Fever,No significant medical history.
+James Henderson,31,AB-,"Unit 0330 Box 7615, DPO AE 82678",+1-447-451-4651x1959,Kevin Richmond,Dr. Jones,Viral Fever,Allergic to dust.
+Mitchell Castro,33,A-,"1167 Christopher Trail Apt. 561, Smithshire, NY 71560",001-365-458-5326x439,William Fox,Dr. Dean,Migraine,No significant medical history.
+Rebecca Hensley,40,AB+,"23986 Cross Mountain Apt. 806, New Charlesfurt, OR 97649",943-998-9695x5980,Sandra Newton,Dr. Pena,Viral Fever,No significant medical history.
+Jessica Marshall,68,A+,"6314 Morris Canyon, Stephaniefort, PW 49517",295.314.5014x51936,Michael Griffith,Dr. Sharp,Hypertension,Previous history of Jaundice.
+Sarah Hanson,81,O-,"504 Edgar Fords Suite 603, Lake Jacobport, DC 54751",+1-525-838-6020x71739,Hannah Raymond,Dr. Ford,Acute Gastritis,Allergic to dust.
+Max Barrera,45,AB+,"463 Mary Harbors Suite 383, Port Francestown, ID 13000",001-259-434-6272,Beth Wood,Dr. Jenkins,Hypertension,No significant medical history.
+Amy Rivera,28,B+,"73908 Hill Crescent, Saunderston, AS 86154",9664777742,Erin Bryant,Dr. Atkins,Migraine,No significant medical history.
+Stephen Villarreal,37,O-,"7616 Antonio Fall Suite 051, Younghaven, ME 14229",3909150659,Kathryn Smith,Dr. Mitchell,Hypertension,Allergic to dust.
+Clifford Schneider,48,O+,"5818 William Summit Suite 121, Michelleland, NE 15447",001-962-430-8442,Robert Middleton IV,Dr. Gonzalez,Viral Fever,No significant medical history.
+David Webb,25,B+,"12039 Mccarthy Run Suite 061, Markfurt, ME 25070",435.472.5182x76651,Randy Lyons,Dr. Garner,Migraine,Previous history of Jaundice.
+Kenneth Cole MD,78,A+,"8792 Spence Rue Apt. 960, Gomezton, LA 71690",+1-310-887-2046x8082,Beverly Mcclain,Dr. Randall,Type 2 Diabetes,Allergic to dust.
+Rebecca Pratt,80,O+,"4745 Martinez Keys, New Melvinborough, KY 30116",6053371614,Maria Nichols,Dr. Mills,Viral Fever,Previous history of Jaundice.
+Guy Haney,55,B+,"USS Dudley, FPO AA 28067",692-476-6364,Keith Martinez,Dr. Gibson,Viral Fever,Allergic to dust.
+Tiffany Nelson,51,O+,"797 Todd Divide Suite 201, Gilesborough, WV 02050",001-648-223-4958x518,Nicholas Richardson,Dr. Williams,Acute Gastritis,Allergic to dust.
+John Doyle,38,A-,"765 Kaiser Knolls Apt. 685, Bryanstad, GU 29673",001-665-710-4297,John Cruz,Dr. Martin,Type 2 Diabetes,Allergic to dust.
+William Edwards,28,AB+,"227 Allison Unions Apt. 994, South Nicole, MT 62088",606.837.4317x654,Robert Brown,Dr. Myers,Migraine,Allergic to dust.
+Jason Salas,28,B-,"57409 Carrie Canyon Apt. 114, Jensenland, AS 98506",440-444-4964,Angel Vance,Dr. Brooks,Type 2 Diabetes,Allergic to dust.
+Christy Stone,21,O-,"100 Gonzalez Island Apt. 641, Phelpsborough, AL 27109",6718377252,Mariah Sanchez,Dr. Miller,Migraine,No significant medical history.
+Michael Zimmerman,57,AB+,"469 Sanchez Walks, Lauraland, IL 72097",(693)222-1662x382,Luke Moore,Dr. Richardson,Viral Fever,No significant medical history.
+Erin Abbott,84,A+,"441 Rodney Brook Apt. 023, New Joshuatown, SC 46898",(633)203-5950x89779,Kayla Davis,Dr. Waller,Hypertension,No significant medical history.
+Brian Quinn,82,O-,"6136 Peter Dale, Rhondaside, FL 19328",001-560-468-0348x11463,Laura Romero,Dr. Moreno,Hypertension,No significant medical history.
+Emily Smith MD,61,A+,"760 Dixon Inlet, Scottmouth, MT 89981",408-750-3521x15876,Sherry Brown,Dr. Dorsey,Acute Gastritis,Allergic to dust.
+Kyle Carpenter,38,AB-,"USNV Humphrey, FPO AP 79283",942.750.8946,Michele Gonzalez,Dr. Chase,Type 2 Diabetes,Previous history of Jaundice.
+Jason Stokes,63,AB+,"3377 Francis Shoal Apt. 552, Jacobchester, NH 98345",001-470-596-4060,Jason Liu,Dr. Weber,Type 2 Diabetes,Previous history of Jaundice.
+Rodney Mcbride,42,AB+,"41703 Grant Hills Suite 278, Nicolefurt, AK 55573",227.383.2605x59206,Barbara Shaw,Dr. Salazar,Hypertension,No significant medical history.
+Daniel Flores,40,AB+,"PSC 0702, Box 3829, APO AE 29108",+1-594-967-6842,Brandon Quinn,Dr. Anderson,Type 2 Diabetes,No significant medical history.
+Peter Lawrence,64,AB+,"08851 Lee Branch, Mathewsport, IA 83911",6792618706,Linda Scott,Dr. Blanchard,Viral Fever,No significant medical history.
+Curtis French,57,O-,"11552 Jonathan Curve Suite 088, Brookeburgh, IN 69215",(858)956-7831,Theodore Weaver,Dr. Rush,Acute Gastritis,Previous history of Jaundice.
+Alice Nguyen,84,A-,"3200 Nicholas Junction Suite 621, Port Michaelview, IL 90317",+1-727-483-8191x4994,Anna Gibbs,Dr. Martinez,Hypertension,Allergic to dust.
+Heather Cummings,54,O-,"5773 Burton Shore Apt. 156, Michaelview, NY 06807",+1-234-736-6406x3950,Tony Scott,Dr. Jones,Type 2 Diabetes,No significant medical history.
+Carrie Craig,38,O+,"1455 Pamela Extension Suite 493, Ramirezberg, SC 99172",(417)720-0727x95506,Katrina Thomas,Dr. Sosa,Type 2 Diabetes,Previous history of Jaundice.
+Hannah Matthews,49,A+,"65898 Simpson Road, Lake Amanda, VT 68140",001-752-909-2971x2031,Mr. Drew Miller,Dr. Roberson,Type 2 Diabetes,Allergic to dust.
+Katherine Kelley,74,O-,"2896 Brian Mission, Stonemouth, ND 90549",989-788-0716,Sharon Moreno,Dr. Moore,Migraine,No significant medical history.
+Jose Allen,26,AB-,"USCGC Santiago, FPO AP 22157",+1-820-822-6793,Jordan Guerrero,Dr. Adams,Acute Gastritis,Previous history of Jaundice.
+David Hobbs,52,O-,"632 Kathy Inlet Suite 274, West Taylor, FM 53097",577.360.7668,John Wilson,Dr. Rodgers,Acute Gastritis,Allergic to dust.
+Michael Donaldson,34,O+,"9255 Clarke Lane, Lake Gregory, MN 38175",601-889-2965,Amanda Waters,Dr. Moss,Type 2 Diabetes,Allergic to dust.
+Lori Little,81,A-,"83126 Bowman Club, New Michaelfurt, NV 09324",897-926-9441x5573,Michael Oneal,Dr. Smith,Type 2 Diabetes,Allergic to dust.
+Jessica White,21,B+,"768 Daniels Squares Apt. 813, Mccarthyhaven, MD 20057",+1-693-544-2949,Amanda Mendoza,Dr. Smith,Acute Gastritis,No significant medical history.
+Alexander Burton,45,O-,"5993 Thomas Stravenue Suite 787, Kevinbury, DC 87683",(832)911-8484x687,Eric Castillo,Dr. Mathis,Acute Gastritis,Previous history of Jaundice.
+Katherine Smith,77,O+,"3502 Brown Common, New Ianfort, MH 56023",9418371300,Kaitlin Clark,Dr. Austin,Type 2 Diabetes,Allergic to dust.
+Michael Miller,39,B+,"3546 James Spurs, Kimberlyport, TX 57450",(974)445-4432,Lisa Torres,Dr. Davis,Hypertension,Allergic to dust.
+Joseph Poole,84,A-,"6822 Jessica Alley Suite 485, Medinahaven, ND 61841",8936633834,Ana Lewis,Dr. Jones,Acute Gastritis,Allergic to dust.
+Abigail Lindsey,81,O+,"Unit 8890 Box 5400, DPO AP 54583",+1-739-797-2887x356,Linda Nguyen,Dr. Pittman,Migraine,No significant medical history.
+Larry Lang,48,AB+,"21332 Benson Pine, North Karenmouth, NY 39730",001-834-576-0963x67959,Sarah Brown,Dr. Irwin,Viral Fever,Previous history of Jaundice.
+Kenneth Wade,48,O+,"USCGC Schwartz, FPO AA 01127",320.647.3150,Michele Patel,Dr. Smith,Type 2 Diabetes,Previous history of Jaundice.
+Stephanie Kim,41,B-,"Unit 0740 Box 4850, DPO AE 98375",(477)372-4070,John Williams,Dr. Smith,Hypertension,Allergic to dust.
+Meagan Holland,82,A-,"199 Lewis Groves Apt. 616, Boltonburgh, AK 41499",(209)889-8656,Stephen Fischer,Dr. Kelly,Hypertension,No significant medical history.
+Cynthia Lin,25,B+,"24751 Heather Dam, Michaelton, MO 99515",(720)806-4340,Deanna Lynch,Dr. Roman,Migraine,Allergic to dust.
+Timothy Velazquez,30,A-,"78218 Stephen Ranch Suite 238, Sanfordside, HI 47881",(905)979-8118x97075,Charles Smith,Dr. Hubbard,Acute Gastritis,Allergic to dust.
+Shane Schultz,33,B-,"59253 Kathryn Manor Apt. 074, Alexanderland, AZ 79892",+1-657-260-3053x6986,Natalie King,Dr. Wilson,Acute Gastritis,Previous history of Jaundice.
+Cody Mcclure,78,B-,"639 Anderson Gardens Suite 993, South Erikview, KS 82593",952-937-0180x6777,Thomas Larson,Dr. Sparks,Acute Gastritis,No significant medical history.
+Mr. Peter Nixon,35,A-,"USS Brown, FPO AE 00520",+1-755-657-7336x24912,Christine Stephens,Dr. Perry,Hypertension,Allergic to dust.
+Michael Turner MD,58,B-,"3942 Tanya Course, East Jenna, GU 14503",001-263-229-5762x3678,William Miller,Dr. Stafford,Hypertension,Allergic to dust.
+Melissa Garcia,39,AB+,"Unit 9715 Box 7562, DPO AP 47633",637-740-6880,Jason Cowan,Dr. Smith,Type 2 Diabetes,Allergic to dust.
+John Osborne,68,A-,"8469 Alejandra Tunnel Apt. 336, Veronicaville, MI 37598",(846)622-4525x3142,Michael Ramos,Dr. Byrd,Type 2 Diabetes,Allergic to dust.
+Kenneth Calhoun,46,A+,"Unit 4056 Box 1500, DPO AP 86287",+1-546-717-6362x008,John Gregory,Dr. Horn,Type 2 Diabetes,Previous history of Jaundice.
+Brittany Jackson,68,B+,"00577 Micheal Port, Michaelside, WY 25943",001-587-363-0758x398,Kevin Russell,Dr. Guzman,Hypertension,Previous history of Jaundice.
+Alyssa Bennett,84,B+,"114 Ricardo Ramp Suite 906, Dunnmouth, IA 83080",523-650-2026,Kevin Russell,Dr. Mitchell,Type 2 Diabetes,Previous history of Jaundice.
+Daniel Wilson,72,B+,"PSC 0641, Box 4692, APO AP 75602",001-480-272-2862x75825,Tammy Stevens,Dr. Todd,Type 2 Diabetes,Allergic to dust.
+William Stokes,37,A-,"682 Payne Trafficway, Josephmouth, NY 97593",530-532-5825x500,Kenneth Wang,Dr. Clark,Viral Fever,Allergic to dust.
+Cheyenne Perez,58,B-,"3524 Rose Crossroad Suite 056, West Rodney, FL 63490",(895)675-9551x4945,Michelle Stevens,Dr. Oneal,Migraine,Allergic to dust.
+Peter Holland,41,AB-,"PSC 6783, Box 1811, APO AP 60994",8314188283,Rebecca Hunt,Dr. Walker,Type 2 Diabetes,Previous history of Jaundice.
+John Lopez,27,A+,"645 Jessica Club, South Alicialand, KY 31922",001-980-225-6617,Angela Webster,Dr. Gonzalez,Migraine,No significant medical history.
+Ricky Lewis,26,B+,"542 Ethan Loaf Apt. 188, West David, TX 62581",211.339.4154x705,Terri Harrell,Dr. Vazquez,Type 2 Diabetes,No significant medical history.
+Valerie Smith,47,O+,"26602 Gonzalez Ford Suite 054, South Christopherview, NV 38335",3979542999,Kimberly Rice,Dr. Avery,Acute Gastritis,Allergic to dust.
+Tina Nielsen,73,AB+,"074 Barnes Causeway Apt. 394, East Ricardoport, FM 56303",825-533-3113x369,Amanda Mayer,Dr. Cox,Acute Gastritis,No significant medical history.
+Ashley Riley,58,O-,"285 Wilson Parks Apt. 046, New Robertborough, CA 56647",001-907-509-6940x476,Elizabeth Payne,Dr. Gomez,Acute Gastritis,Allergic to dust.
+Gary Andrews,36,O-,"4583 Conrad Way, Juantown, OH 54894",291-304-5903,Sean Davis,Dr. Brown,Type 2 Diabetes,No significant medical history.
+Michael Rodgers,36,O+,"9977 Robin Hill, West Geraldbury, HI 28275",001-962-683-4398x57804,Nicholas Schneider,Dr. Jones,Type 2 Diabetes,Previous history of Jaundice.
+Robert Garcia,36,B-,"2102 Sandra Flat, Robinland, AR 52916",(604)591-7245,Julie Martinez,Dr. Valenzuela,Viral Fever,No significant medical history.
+Jose Carter,85,B-,"278 Conley Manors, Hutchinsonmouth, MT 47748",001-786-735-5985x915,Marc Anderson,Dr. King,Type 2 Diabetes,No significant medical history.
+Jessica Brock,59,O-,"93870 Shane Ford Suite 315, Beardview, LA 58084",974.899.7641,Alejandro Doyle,Dr. Brown,Hypertension,Allergic to dust.
+Lisa Henderson,85,B+,"055 Michele Canyon, Jeanetteburgh, MH 54810",996.459.5569x875,Darren Hanson,Dr. Wilson,Migraine,No significant medical history.
+Chad Shaw,33,O+,"1747 Barber Divide, Caseville, NY 51012",+1-212-432-3361,Julie Bell,Dr. Hurley,Migraine,Allergic to dust.
+Katie Guerrero,26,AB+,"6313 Norma Island Suite 324, Colemanshire, MO 67605",7144184196,John Fields,Dr. Bryant,Migraine,Allergic to dust.
+Laura Hogan,32,AB-,"390 Combs Shoal Suite 753, Velezshire, MO 65269",6147361501,Charles Gonzalez,Dr. Jones,Acute Gastritis,Allergic to dust.
+Rachel Johnson,48,A+,"53662 Hogan Courts, Port Tracey, MT 38608",001-818-474-6587x8159,Mark Patrick,Dr. Patton,Hypertension,No significant medical history.
+Shawn Soto,48,O+,"604 White Extensions Apt. 858, Jamesbury, OR 27670",+1-333-957-8112,Angela Martin,Dr. Petty,Acute Gastritis,Allergic to dust.
+Eric Silva,47,AB-,"4384 Catherine Valleys Suite 894, West Stephanieport, NY 38802",(671)559-2533x4836,John Perez,Dr. Bowman,Viral Fever,Allergic to dust.
+Debra Lee,34,A+,"23646 Rose Park, West Kurt, HI 00514",345.441.6710x44064,Christopher Ortiz,Dr. Delgado,Type 2 Diabetes,Previous history of Jaundice.
+Mr. Gregory Moses,30,A+,"USS Smith, FPO AP 63237",347-248-4590x868,Alexander Compton,Dr. Vaughan,Viral Fever,Previous history of Jaundice.
+Mary Rodriguez,25,AB+,"USNS Harmon, FPO AP 28190",(557)320-6308,Jennifer Ingram,Dr. Price,Type 2 Diabetes,Previous history of Jaundice.
+Donald Murphy,66,B-,"59771 Roberts Burg, East Susanville, SD 82589",001-813-847-0414x30956,Joseph Phillips,Dr. Kennedy,Hypertension,Previous history of Jaundice.
+James Leach,25,O+,"39204 Donna Mission, Nguyenberg, MO 66651",(264)507-7252x800,Samantha Olson,Dr. Moreno,Acute Gastritis,Previous history of Jaundice.
+Matthew Watson,21,A-,"53537 Brooke Junctions Apt. 039, Christophershire, IL 07966",981-307-6151,Jennifer Crawford,Dr. Saunders,Migraine,Previous history of Jaundice.
+Eric Franklin,42,B+,"67910 Bruce Prairie, East Allenbury, ME 95285",001-402-751-0432,David Johnson,Dr. Willis,Migraine,Allergic to dust.
+Amber Edwards,44,B+,"38062 Fowler Circles, South Matthew, SD 26798",876.499.5654x05773,Lucas Rivera,Dr. Lewis,Type 2 Diabetes,No significant medical history.
+Todd Lopez,52,O-,"Unit 6309 Box 5279, DPO AP 39849",214-702-2538x78743,Katherine Maxwell,Dr. Rivera,Migraine,Previous history of Jaundice.
+Cynthia Caldwell,25,B+,"Unit 3617 Box 1157, DPO AA 24577",320.760.3784,Matthew Woods,Dr. Mcgee,Type 2 Diabetes,No significant medical history.
+Erik Hayes,29,B-,"Unit 6265 Box 1742, DPO AA 04157",+1-702-823-9836x5997,Manuel Green,Dr. Williams,Type 2 Diabetes,Previous history of Jaundice.
+Ashley Montes,82,AB+,"633 Silva Pines, Lake Terrence, CT 97300",278.211.0074x198,Danny Young,Dr. Taylor,Hypertension,No significant medical history.
+Laurie Mcdowell,67,B-,"2970 Bell Station, South Jon, AK 50688",(350)866-6535x14399,Ashley Cook,Dr. Robinson,Hypertension,Allergic to dust.
+Alexandra Hale,81,AB+,"480 Daniel Plains Suite 045, South Jenniferborough, CA 52341",+1-433-277-4026x8483,Steven Jones IV,Dr. Hampton,Viral Fever,Previous history of Jaundice.
+Melissa Johnson,58,A-,"703 John Bridge Suite 198, West Sabrina, IN 87376",(682)461-2952,Travis Lutz,Dr. Snyder,Type 2 Diabetes,No significant medical history.
+Mr. Michael Peters,24,AB+,"482 Thompson Keys, Parkerside, TX 01544",+1-596-429-1586,Richard Schroeder,Dr. Decker,Acute Gastritis,No significant medical history.
+Gabriella Rubio,69,A+,"393 Jacob Rest Suite 293, West Mathew, AK 88896",(971)433-5651x947,Kristen Murphy,Dr. Carter,Acute Gastritis,Allergic to dust.
+Adrienne Cameron,56,O-,"0387 Roberson Springs Suite 315, Lake Edwinchester, NE 22102",563-926-1386,Peter Morris,Dr. Weber,Hypertension,Previous history of Jaundice.
+Ellen Henderson,36,A+,"7416 Jennifer Passage, South Alexisville, NM 19283",+1-623-559-6494,Shirley Hayes,Dr. Elliott,Viral Fever,No significant medical history.
+Rebecca Moss,57,A+,"USNV Perkins, FPO AE 85812",(634)544-5568x210,Scott Cook DDS,Dr. Cunningham,Hypertension,Allergic to dust.
+Krystal Larsen,51,AB-,"5896 Sherry Bridge Apt. 982, Wendystad, MI 43906",+1-862-995-4078x5437,Eric Carpenter,Dr. Collins,Hypertension,Allergic to dust.
+Jonathan Lopez,73,A-,"03779 Lynn Junction, South Johnville, AR 69708",(772)695-0804,Randall Pitts,Dr. Bailey,Type 2 Diabetes,Allergic to dust.
+Michael Sullivan,82,B+,"7170 Benton Summit Suite 106, North Andreahaven, TN 85276",(817)292-0292x1935,Megan Smith,Dr. Jimenez,Acute Gastritis,No significant medical history.
+Renee Mcgee,79,AB-,"690 Robin Landing, Ashleyberg, AL 17878",(519)494-6958x6811,Michael Davis,Dr. Hernandez,Viral Fever,Previous history of Jaundice.
+Chase Garcia,68,A+,"656 Fitzgerald Overpass Suite 564, South Sarah, TN 24533",001-608-359-0903,Cheryl Martinez,Dr. Donovan,Migraine,Allergic to dust.
+Latoya Robbins,24,B-,"55560 Johnson Crescent, Katherineshire, MA 72058",733.654.1042x9943,Adam Johnson,Dr. Hernandez,Hypertension,Previous history of Jaundice.
+Jenna Thompson,75,AB+,"USS Newman, FPO AE 32661",+1-408-953-4432x19221,Anita Robinson,Dr. Turner,Viral Fever,Allergic to dust.
+Javier Villegas,51,A-,"75236 Lowe Station Suite 957, Lake Kendra, AK 88916",236.619.8427,Jacqueline Taylor,Dr. Robbins,Viral Fever,Allergic to dust.
+Andrew Nguyen,33,AB+,"5437 Black Keys, Woodville, AK 47466",362.673.5525x682,Joan Rodriguez,Dr. Clark,Hypertension,No significant medical history.
+Thomas Randolph,71,B+,"6145 Antonio Walks, New Gabrielle, LA 57329",(296)621-6216,Laurie Mcclain,Dr. Jackson,Type 2 Diabetes,Previous history of Jaundice.
+Wesley Arroyo,61,B+,"0470 Maria Square Apt. 392, Bradleymouth, MP 10466",001-781-497-6118x177,Emily Johnson,Dr. Allen,Migraine,Previous history of Jaundice.
+John Wade,60,A+,"2811 Melanie Glens, North Erinfurt, VI 37873",965.990.7510x17113,Cheryl Foster,Dr. Washington,Viral Fever,No significant medical history.
+Isaac Wilson,34,A+,"7152 Reed Island, North Chelseafort, ME 19680",(313)695-7552x721,Brittany Rodriguez,Dr. Tran,Viral Fever,Allergic to dust.
+Anthony Rodriguez,52,B-,"19196 Parsons Points, North Jeffery, PW 51010",238.965.5510,Edward Jackson,Dr. Boyd,Viral Fever,No significant medical history.
+Joel Terry,38,B-,"0833 Teresa Centers Suite 046, Lewisfort, ID 48934",(870)897-5338x069,Emily Williams,Dr. Walker,Hypertension,Previous history of Jaundice.
+Mary Duarte,64,O-,"863 Erica Views, Barbarastad, RI 79536",653-397-5013,Oscar Atkinson,Dr. Little,Acute Gastritis,Allergic to dust.
+Ivan Little,26,B-,"4869 Khan Junctions Apt. 460, Christinahaven, WA 97245",001-795-921-3545x40713,Tony Stevens,Dr. Doyle,Hypertension,Allergic to dust.
+Nicholas Vazquez,20,A+,"Unit 5034 Box 3286, DPO AP 81530",+1-356-556-8412,David Vasquez,Dr. Mendoza,Hypertension,Allergic to dust.
+Amy Scott,37,O+,"7773 Melissa Ports, Lake Danielton, FM 75254",5607998403,Rose Gallagher,Dr. Hernandez,Acute Gastritis,No significant medical history.
+Samantha Rubio,59,A+,"8213 Flores Estate Apt. 914, North Deanna, MO 77628",(720)646-1846x44064,Lisa Blackwell,Dr. Taylor,Acute Gastritis,Previous history of Jaundice.
+Kimberly Morgan,38,AB+,"131 Harrell Rapid Apt. 039, New Katherine, MH 60276",995.582.3956x134,Lisa Santos,Dr. Mendez,Migraine,Allergic to dust.
+Steve Odom,52,AB-,"753 Travis Shores, South Laurieland, KS 42642",924-939-9915x9953,Randy Brady,Dr. Hess,Hypertension,Allergic to dust.
+David Larsen,32,O+,"37716 Anderson Turnpike Apt. 745, Laurenfort, WY 71247",219-520-1265x81749,Jeffrey Harris,Dr. Esparza,Migraine,No significant medical history.
+Jessica Fernandez DVM,31,A-,"812 Moore Station Apt. 270, Floresmouth, GA 45662",6286636696,Ryan Clark,Dr. Cooper,Type 2 Diabetes,Previous history of Jaundice.
+Christopher Butler,84,A-,"PSC 1203, Box 6742, APO AE 87421",7673760380,Patricia Johnson,Dr. Estrada,Hypertension,Previous history of Jaundice.
+Debra Garrison,25,AB-,"068 Wright Meadow Apt. 075, Adkinsside, PW 28934",223.443.6788,Brian Brown,Dr. Edwards,Type 2 Diabetes,Allergic to dust.
+Bryce Munoz,83,B-,"PSC 0526, Box 2459, APO AA 12723",+1-856-243-4873,Misty Malone DDS,Dr. Meyer,Viral Fever,Previous history of Jaundice.
+Rebecca Ramirez,26,O-,"2041 Lori Ridge Suite 301, Lake Todd, GA 33550",516.450.3573,Rebecca Jones,Dr. Chase,Hypertension,Allergic to dust.
+Caleb Taylor,33,A+,"Unit 9965 Box 3613, DPO AA 17675",+1-425-411-0165,Michael Maldonado,Dr. Hill,Acute Gastritis,No significant medical history.
+Ronald Richmond,81,B+,"1519 Collins Junctions, New Tracy, WI 14119",275-711-5456x860,Michael Saunders,Dr. Wood,Type 2 Diabetes,Previous history of Jaundice.
+Brittney Gutierrez,23,O-,"Unit 9150 Box 0009, DPO AP 60915",001-739-917-1161x0296,Luis Powell,Dr. Smith,Acute Gastritis,Previous history of Jaundice.
+Timothy Kelly,21,AB+,"72332 Elizabeth Stream Suite 529, Frenchville, IL 55408",001-544-965-7631x08447,Kristen Holmes,Dr. Archer,Type 2 Diabetes,Allergic to dust.
+Nathan Moss,42,B+,"USNS Moss, FPO AP 45311",(658)715-8491x0526,Joseph Jones,Dr. Huffman,Type 2 Diabetes,Allergic to dust.
+John Miller,69,B-,"630 Bryant Drive, Atkinsonmouth, UT 76443",736.614.1864x5561,Tanya Moore,Dr. Vega,Viral Fever,Allergic to dust.
+Karina Ramos MD,48,O+,"46734 Drake Dam Suite 404, Katherinehaven, FL 91813",852.498.7318x40830,Mark Price,Dr. Osborne,Migraine,Previous history of Jaundice.
+Rodney Mckay,81,O-,"1057 Anthony Ridges, Jacksonfurt, VT 74291",+1-207-984-3375x87011,Stacey Torres,Dr. Ruiz,Type 2 Diabetes,Previous history of Jaundice.
+Scott Gonzalez,65,AB+,"530 Denise Harbors Suite 985, Joshuamouth, NV 20008",(948)411-7232x75375,Maria Williams,Dr. Thomas,Viral Fever,Previous history of Jaundice.
+Jordan Ortiz,33,AB-,"663 Tate Views, East Peggy, MA 94173",663-666-7474,Mark Morris,Dr. Short,Acute Gastritis,No significant medical history.
+Katelyn Casey,50,AB-,"4293 Denise Greens, Wrightshire, CT 51116",001-818-767-7399x83232,Christian Gomez,Dr. Crosby,Acute Gastritis,Allergic to dust.
+Michael Fields,44,B-,"860 Nicole Spur, Scottton, PR 04213",+1-376-830-3273x1249,Gregory Nelson,Dr. King,Hypertension,Allergic to dust.
+Jeffrey Jackson,66,A+,"7060 Bennett Shore, Mcintyreberg, SD 79424",(790)488-6990x82631,Ryan White,Dr. Morris,Acute Gastritis,No significant medical history.
+Nicole Liu,30,O-,"6459 Kyle Island, Hawkinsmouth, NJ 82337",(874)487-8333,Brian Peters,Dr. Collins,Viral Fever,Allergic to dust.
+Natalie Davis,81,A-,"4071 Adam Square Suite 441, Woodschester, DE 37110",696.662.8465,Emily Myers,Dr. Green,Viral Fever,Previous history of Jaundice.
+Michael Atkinson,20,A-,"29167 Aaron Course Apt. 255, West Brandon, RI 98120",316.545.7823x8545,Pamela Castaneda,Dr. Raymond,Acute Gastritis,Previous history of Jaundice.
+John Ellis,57,A+,"5116 Gross Trace, Larsonborough, WA 14021",807-467-0408,Jonathan Henry,Dr. Lee,Migraine,Previous history of Jaundice.
+Brenda Spence,30,B-,"7921 Johnson Estates, New Elizabethfort, NE 76626",5014753829,Sarah Dunn,Dr. Spencer,Migraine,Previous history of Jaundice.
+Russell Pacheco,76,A-,"8748 Marcus Mountains Suite 732, West Juliefurt, AR 01928",(835)992-9650x85392,Lauren Sanchez,Dr. Barrett,Acute Gastritis,Allergic to dust.
+Jeffrey Mercer,24,AB-,"99139 Samantha Points, South Michael, AZ 76388",(853)432-2901x07130,Angela Carson,Dr. Nichols,Hypertension,Allergic to dust.
+Eric Reese,31,B-,"62593 Albert Hills Apt. 022, Reyesville, LA 87230",425-664-4016,Donna Harris,Dr. Hall,Acute Gastritis,Allergic to dust.
+Megan Robinson,54,B-,"PSC 6046, Box 6955, APO AA 76956",001-278-405-6952x95423,Jennifer Santiago,Dr. Ferguson,Type 2 Diabetes,Previous history of Jaundice.
+Christine Watson,21,A-,"699 Christine Divide, Nortontown, AZ 34809",+1-755-536-6789,Victoria Stephens,Dr. Lopez,Hypertension,Previous history of Jaundice.
+Ricardo Chan,36,O-,"2118 Christopher Village Suite 078, Bakerview, MP 19784",9977107913,Melissa Price,Dr. Swanson,Type 2 Diabetes,Previous history of Jaundice.
+Debra Frazier,74,B-,"767 Brooke Trail Apt. 391, Cunninghammouth, NC 30700",(385)777-9804x42789,Terry Duran,Dr. Bell,Acute Gastritis,Previous history of Jaundice.
+John Kramer,84,AB-,"113 Paul Alley, Baldwinstad, AR 60460",501-536-9040x720,David Shaffer,Dr. Wolf,Acute Gastritis,Allergic to dust.
+Heather Hansen,63,AB-,"664 George Crest Apt. 242, Maryton, WA 86415",(417)893-2362x096,Laurie Holmes,Dr. Thomas,Type 2 Diabetes,Previous history of Jaundice.
+Pamela Escobar,41,O-,"4234 Michael Garden Apt. 957, South Thomas, NY 11954",247-390-1164x0355,Randall Rodriguez,Dr. Williams,Type 2 Diabetes,Allergic to dust.
+Roy Cox,49,AB+,"918 Tanya Hills, New Patricia, RI 01346",475-886-4043,Angela Roberts,Dr. Christensen,Viral Fever,Allergic to dust.
+Denise Francis,70,AB+,"69463 Paul Crossing, Clintonstad, GA 84046",9404082334,Charles Randolph,Dr. Rivera,Hypertension,Previous history of Jaundice.
+Bryan Mccullough,45,A-,"85452 Walker Orchard Suite 970, Briggsbury, ME 03600",+1-378-416-6811x54623,Katherine Hill,Dr. Wilson,Acute Gastritis,Previous history of Jaundice.
+Anna Cardenas,73,AB-,"9297 Diaz Land Suite 139, South Cindy, DE 76465",001-270-285-5161x9041,Matthew Hart,Dr. Marshall,Acute Gastritis,Allergic to dust.
+Taylor Dudley,37,O-,"859 Jimenez Walk Suite 428, Brianamouth, NY 71537",+1-923-965-9412x7512,Ashlee Kaiser,Dr. Maldonado,Migraine,No significant medical history.
+Jamie Walton,24,A+,"0694 Tonya Bridge, Mariaborough, NY 29160",+1-376-250-5272,Tyler Smith,Dr. Cole,Hypertension,Allergic to dust.
+Mr. Henry Taylor,59,B-,"05174 Riley Highway, East Ryan, PW 31451",(805)652-4642x22200,Timothy Banks,Dr. Miller,Migraine,Allergic to dust.
+Samantha Garcia,74,B+,"1322 Wilson Freeway, Georgemouth, VA 17506",242-774-8020x71538,Kimberly Garcia,Dr. Hunt,Migraine,Previous history of Jaundice.
+Gregory Lewis,73,A-,"3029 Nancy Cliff Apt. 855, East Roger, PA 21266",(637)924-2901x95149,Tiffany Barrett,Dr. Hill,Type 2 Diabetes,No significant medical history.
+Lindsay Lopez,80,O-,"PSC 0404, Box 0372, APO AE 48521",001-573-452-4798x45288,Maria Ramirez,Dr. Carson,Acute Gastritis,No significant medical history.
+Tyler Crane,33,B+,"05477 Kirk Club Suite 883, South Susanmouth, PW 03835",+1-752-801-8764x9042,Carmen Rowland,Dr. Hinton,Migraine,Previous history of Jaundice.
+Brian Lynn,77,AB+,"71153 Reilly Alley Suite 679, West Jennifer, VI 80418",513.250.6977,Tracy Miranda,Dr. Zuniga,Acute Gastritis,Previous history of Jaundice.
+Sheila Butler,71,O-,"071 Theresa Springs, East Melissa, IL 87079",434.264.6436,Carla Carter,Dr. Adams,Type 2 Diabetes,Previous history of Jaundice.
+Courtney Gonzalez,60,B+,"865 John Park, North Stephanieland, TN 03106",+1-701-241-0739x93425,Mary Fowler,Dr. Abbott,Migraine,Allergic to dust.
+Thomas Brown,69,B+,"6765 Acosta Rapid Suite 409, West Roberthaven, PR 39444",(257)308-9034x10649,Hannah Perez,Dr. Cooper,Acute Gastritis,Allergic to dust.
+Jennifer Hopkins,53,A-,"5322 Cox Parkways, Port Laurie, MH 13708",818-596-3614x524,Diana Cruz,Dr. Lynch,Acute Gastritis,Allergic to dust.
+Christopher Bennett,59,A-,"357 Anthony Isle, Simonborough, WV 09836",001-588-957-7385x075,Jordan Davis,Dr. Jenkins,Acute Gastritis,No significant medical history.
+Melissa Brewer,78,B+,"3944 Jimmy Orchard Apt. 972, South Scott, ME 38222",2698888996,Cassidy Brown,Dr. Alexander,Hypertension,Previous history of Jaundice.
+Dana Garcia,50,AB+,"3864 Griffin Green, South Paulchester, CT 79571",576-975-4820x017,Melvin Scott,Dr. Estrada,Viral Fever,Allergic to dust.
+Melissa Brown,34,A+,"9187 John Spring, West Joann, AR 71095",(759)818-4894x512,Andrew Cohen,Dr. Armstrong,Migraine,No significant medical history.
+Jennifer Cisneros,82,AB+,"339 Matthew Junctions Apt. 542, North David, ME 85667",427.418.7030x2782,Lawrence Garcia,Dr. Carter,Hypertension,Allergic to dust.
+Brenda Stark,80,AB+,"78088 Parker Green Suite 200, West Brandy, WV 57709",001-872-328-9826,James Burke,Dr. Rangel,Acute Gastritis,Previous history of Jaundice.
+Todd Hess,82,AB+,"122 Mcdaniel Center Apt. 418, Lake Jennifer, MI 89214",(524)405-6937,Nicole Hall,Dr. Garcia,Type 2 Diabetes,Allergic to dust.
+Christopher Dawson,81,AB-,"0854 Timothy Plain, Cruzbury, MD 55679",718-753-5886,Thomas Lee,Dr. Dixon,Migraine,No significant medical history.
+Matthew Johnson,63,B-,"0229 Sweeney Light, South John, MA 32661",800.577.7839x7225,Steve Coleman,Dr. Miller,Type 2 Diabetes,Previous history of Jaundice.
+Robert Arellano,28,AB-,"864 Tyler Roads Suite 107, East Christina, HI 91517",694-708-1076,Mariah Williams,Dr. Johnson,Type 2 Diabetes,Allergic to dust.
+Lisa Spears,69,A-,"19139 Nicholas Creek, Deborahburgh, MP 18111",848.352.5265,Mary Flores,Dr. Schmidt,Hypertension,Previous history of Jaundice.
+Angela Willis,58,AB+,"832 Johnson Center Suite 385, Morrisborough, MI 08310",001-957-572-6022,Sophia Tyler,Dr. Ponce,Type 2 Diabetes,Previous history of Jaundice.
+Rachel Ramos,42,AB-,"556 Hall Hills Suite 934, Port Jenniferbury, GA 69808",(396)611-6844x1629,John Berger,Dr. Moreno,Acute Gastritis,No significant medical history.
+Christopher Murphy,84,AB-,"7772 Jennifer Hills Apt. 425, New Kelsey, RI 77337",330-597-2512,Christopher Mendez,Dr. Cole,Viral Fever,No significant medical history.
+Veronica Dixon,60,O-,"898 Jack Neck Apt. 838, West Michaelburgh, MI 49185",6033174022,Natalie Martinez,Dr. Hayden,Acute Gastritis,Allergic to dust.
+Gregory Diaz,53,A+,"063 Mullins Neck, New Bretthaven, SC 72446",+1-295-569-0334x53214,Kimberly Elliott DVM,Dr. Carter,Viral Fever,Previous history of Jaundice.
+Renee Mata,22,B-,"8669 Felicia Mountain Suite 345, Stevenchester, WA 05123",354-790-6727,Bradley Jordan,Dr. Morgan,Viral Fever,No significant medical history.
+Susan Small,57,AB+,"179 Lee Center Apt. 144, Lake Patrick, VI 93601",001-346-718-2726x7914,Steven Hill,Dr. Davis,Migraine,Previous history of Jaundice.
+Emily Stewart,66,B-,"5396 Anthony Rapids, North Shannonhaven, OH 78836",+1-761-963-5821x831,Sara Wyatt,Dr. Lopez,Acute Gastritis,Allergic to dust.
+Arthur Fields,81,A+,"514 Brandon Mountain, Williamchester, VI 74095",001-870-892-0354x8091,Robert Watson,Dr. Mckee,Viral Fever,No significant medical history.
+Jeff Morales,61,A-,"79221 Fleming Alley, Kimberlyburgh, KS 95616",851-226-9006,Jessica Long,Dr. Valentine,Acute Gastritis,Previous history of Jaundice.
+Michael Hickman,51,A-,"07895 Miller Wall Apt. 018, Johnsonborough, FM 48652",(356)738-0900x81867,Edward Hester,Dr. Skinner,Type 2 Diabetes,Allergic to dust.
+Eric Morgan,82,AB-,"631 Jason Cliffs, New Kevinbury, MT 54382",867.964.2341x658,Dr. Hannah Parker,Dr. Martin,Type 2 Diabetes,Previous history of Jaundice.
+Robert Freeman,37,B-,"USNS Gray, FPO AE 31412",001-794-946-0179,Kimberly Gentry,Dr. Myers,Type 2 Diabetes,Previous history of Jaundice.
+Brian Medina,27,AB+,"45427 Lewis Ford Apt. 326, Laurafurt, WI 04528",770-703-2770x037,William Black,Dr. Carter,Hypertension,Previous history of Jaundice.
+Brooke Carney,46,B+,"5729 Heather Loop Suite 531, North Kathy, CO 49790",+1-485-389-5749x96796,Amber Escobar,Dr. Santiago,Acute Gastritis,No significant medical history.
+Amanda Arnold,73,B+,"50090 Oconnor Wall Apt. 543, Lake Curtisshire, NE 27518",(228)833-4689,Derek Zimmerman,Dr. Morrison,Hypertension,Allergic to dust.
+Barbara Roman,65,A-,"91438 Burch Forge, Hayeschester, TX 84685",(310)336-7409,Edward Rodriguez,Dr. Rush,Type 2 Diabetes,Allergic to dust.
+Rachel Mccarthy,64,AB-,"070 Hampton Meadow Apt. 973, East Xavier, IN 28883",+1-730-397-5269x139,Peter West,Dr. Brown,Type 2 Diabetes,Previous history of Jaundice.
+William Wilson,75,AB+,"USS Patterson, FPO AE 24471",(261)559-0515x0354,Ruben Evans,Dr. Coleman,Migraine,Allergic to dust.
+Carla White,21,AB-,"9512 Holly Knolls Suite 921, New Rebecca, VA 82056",(916)845-9214,David Patton,Dr. Briggs,Type 2 Diabetes,Allergic to dust.
+Mr. Paul Perez,57,O-,"2640 Sara Rue Suite 165, Lake Lindsay, DC 99525",546.575.1237,Christine Garcia,Dr. Byrd,Viral Fever,No significant medical history.
+Amanda Frank,21,O-,"054 Williams Isle, New Stephanieburgh, IA 92766",001-503-955-7798x081,Amber Gibbs,Dr. Jones,Viral Fever,Allergic to dust.
+William Aguilar,67,B-,"5566 James Forest, West Roystad, KY 48282",707-665-8807,Jennifer Lewis,Dr. Acosta,Hypertension,Previous history of Jaundice.
+Rachel Joseph,67,A+,"84504 Fisher Mews Suite 748, Michaelmouth, KY 32255",725-314-0366,Gary Mcguire,Dr. Sloan,Type 2 Diabetes,Allergic to dust.
+Angela Campbell,42,O-,"67140 Jamie Dam Suite 116, Jordanmouth, TX 62277",835-780-4242,Sarah Hood,Dr. Morrow,Migraine,Allergic to dust.
+Walter Turner,31,B-,"PSC 0894, Box 0328, APO AA 92241",+1-535-968-5662x211,Kelly Welch,Dr. Mcguire,Acute Gastritis,Previous history of Jaundice.
+Jordan Romero,30,A-,"96972 Laurie Summit Apt. 927, North Andrestad, MS 44541",736.403.6941x44403,Crystal Anderson,Dr. Ortiz,Migraine,Allergic to dust.
+Cristina Ross,67,AB-,"USNS Wiggins, FPO AA 61932",001-537-582-9558x244,Barry Bates,Dr. Nicholson,Migraine,Previous history of Jaundice.
+Mitchell Odom,74,AB+,"5219 Davenport Brook Apt. 389, South James, PA 21358",643-453-3788,Lisa Davies,Dr. Benjamin,Acute Gastritis,Previous history of Jaundice.
+Martin Williams,29,A-,"79747 Sosa Valleys Suite 345, Lake Laurie, CT 14987",465.692.8532x9642,Sarah Hernandez,Dr. Taylor,Hypertension,Previous history of Jaundice.
+Duane Walker,19,B-,"39787 Baker Trail, Theresaton, WI 59230",(990)349-5093x5871,Michael Jones,Dr. Hernandez,Type 2 Diabetes,No significant medical history.
+Gabriel Bauer,18,B-,"033 Sanchez Glens Suite 789, Jorgemouth, UT 91431",209-743-8311,Elizabeth Brady,Dr. Nichols,Viral Fever,Allergic to dust.
+Patrick Bennett,39,O-,"8894 Ray Cove Apt. 215, North Cynthiahaven, DC 14500",675.302.4084x84939,Dr. Melinda Smith,Dr. Murray,Viral Fever,No significant medical history.
+Nicole Booth,70,B+,"8055 Hunter Ford, Kristinaview, MI 16892",(200)640-6420,Chad Cole,Dr. Chandler,Hypertension,Previous history of Jaundice.
+Sarah Kline,41,A+,"83042 Carter Hills, Taylortown, NJ 47337",223.308.7361x81080,Amber Sanchez,Dr. Rodriguez,Acute Gastritis,Allergic to dust.
+Brandy Guzman,25,O+,"5692 Ross Dale Apt. 581, Lake Kimberlyfort, VT 76682",+1-677-738-4697x289,Jessica Green,Dr. Parsons,Migraine,No significant medical history.
+Francisco Cardenas,83,B-,"289 Lee Park, Dawnport, AS 99034",+1-427-642-0479,Daniel Parks,Dr. Martin,Hypertension,No significant medical history.
+Rebekah Mccarthy,38,A+,"67210 Lowe Passage, West Christopher, MN 91457",+1-467-924-6090,James Dunn,Dr. Marquez,Type 2 Diabetes,Allergic to dust.
+Ana Wallace,41,A+,"100 Cobb Streets Apt. 563, Gilbertville, MS 52424",(545)754-7941x38975,Andrew Santiago,Dr. Patel,Acute Gastritis,No significant medical history.
+Mark Parker,27,O-,"1290 Jones Port, Lake Victoria, CA 92028",3895914876,William Martinez,Dr. Butler,Viral Fever,No significant medical history.
+Mr. Charles Rodriguez,66,AB-,"47148 Samuel Gardens Apt. 147, East Elizabeth, VA 60199",965.211.3762,Mrs. Jamie Bailey,Dr. Butler,Viral Fever,No significant medical history.
+Calvin Ayers,29,O-,"39116 Kathleen Well Apt. 506, North Latoyaport, NH 26456",001-293-826-0445x30794,Ariel Stout,Dr. Woods,Hypertension,Previous history of Jaundice.
+Catherine Newman,55,B-,"5912 Harper Meadow Apt. 887, Michaelshire, CO 11244",689.402.8777x88867,Joseph Nelson,Dr. Grant,Hypertension,Allergic to dust.
+Paul Rivera,44,O-,"233 Knight River, Lauratown, CT 30979",(884)752-8542,Travis Carpenter,Dr. Joyce,Migraine,Previous history of Jaundice.
+Joseph Moore,84,A+,"PSC 1963, Box 8708, APO AA 55482",348-486-6175x3949,John Reed,Dr. Pollard,Viral Fever,No significant medical history.
+Erica Castro,76,B-,"82337 Hamilton Key, Kellychester, MD 42362",286-987-3689x810,Susan Sanders,Dr. Lee,Viral Fever,Allergic to dust.
+Amber Williams,80,O-,"07684 Fuller Dale, East Angelaburgh, IA 41793",(564)342-6422x9599,Brandi Palmer,Dr. Sloan,Migraine,Allergic to dust.
+Lonnie Morris,43,B-,"896 Nash Parkways, Cohenstad, NY 04859",793.703.6682x46713,Andrew Shaffer,Dr. Floyd,Type 2 Diabetes,No significant medical history.
+Thomas Osborn,72,A+,"6553 Hannah Station Suite 240, Hatfieldton, TX 04433",001-393-866-1697x50408,Mrs. Miranda Smith DDS,Dr. Mcdonald,Viral Fever,No significant medical history.
+Megan Hernandez,41,O-,"966 Knight Gateway Apt. 582, Hunthaven, AK 89761",001-967-459-2682,Stacey Deleon,Dr. Park,Hypertension,Allergic to dust.
+Cassandra Harmon,77,A+,"3232 Stephanie Stravenue Suite 677, Laurenton, WA 73384",3722044413,Tracy Harris,Dr. Davis,Type 2 Diabetes,Allergic to dust.
+Erik Stewart,69,A-,"6835 Roger Meadow Apt. 633, Lopeztown, PR 45212",425.237.6245,Paul Rodriguez,Dr. Harris,Viral Fever,Allergic to dust.
+Justin Jennings,42,B+,"809 Brian Pass, West Robertton, PW 84434",+1-863-886-9156x43625,Christopher Anderson,Dr. Nunez,Type 2 Diabetes,Previous history of Jaundice.
+Ricardo Olson,49,AB+,"3909 Samuel Rest Apt. 052, West Jonathonfurt, CT 23868",391.399.6468x676,Valerie Haas,Dr. Carpenter,Migraine,Previous history of Jaundice.
+Francisco Reese,33,A-,"678 Steven Gateway, East Shelby, MP 16962",+1-460-212-5530x70801,Adrian Novak,Dr. Carter,Viral Fever,Allergic to dust.
+Gina Jackson,37,B+,"11885 Caitlin Wells, Powellport, HI 94497",882-345-9332,Laura Palmer,Dr. Perez,Hypertension,Allergic to dust.
+Dr. Sarah Bowman,18,AB+,"340 Melissa Gateway Apt. 463, Billytown, WV 11377",+1-212-412-7031x545,Ashley Dean,Dr. Mueller,Acute Gastritis,Allergic to dust.
+Alexis Hampton,31,B+,"330 Johnson Courts Apt. 918, Theresafurt, IL 86603",313.254.9524x180,Thomas Miller,Dr. Garcia,Migraine,Allergic to dust.
+Amanda Lambert,28,AB+,"75855 Decker Road, Rogersville, OR 60218",(244)891-2370,Alex Smith,Dr. Barber,Type 2 Diabetes,Previous history of Jaundice.
+Kristin Mcdaniel,60,B-,"5716 Crawford Crest Suite 909, Nicoleside, NH 21642",(409)322-2298x39032,Logan Jones,Dr. Dodson,Migraine,Allergic to dust.
+Ms. Katherine Williams,36,AB-,"609 Hall Squares Suite 516, West Kristenfort, MO 59945",808-757-2935x741,Anthony Rich,Dr. Wells,Type 2 Diabetes,Previous history of Jaundice.
